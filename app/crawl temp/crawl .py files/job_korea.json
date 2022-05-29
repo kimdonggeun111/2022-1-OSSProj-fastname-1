@@ -199,7 +199,7 @@
 	},
 	{
 		"title": "[SK렌터카] Online B2C채널 프론트엔드 개발 / Cloud 기반 시스템 백엔드 개발 담당자 모집(신입/경력)",
-		"d-day": "내일마감",
+		"d-day": "오늘마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38490982?Oem_Code=C1&PageGbn=ST",
 		"기업": "SK렌터카㈜"
 	},
@@ -265,31 +265,31 @@
 	},
 	{
 		"title": "2022 상반기 BGF그룹 신입/경력 채용",
-		"d-day": "내일마감",
+		"d-day": "오늘마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38446466?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜비지에프리테일"
 	},
 	{
 		"title": "[현대자동차] IT기획(ERP 기준정보 FCM 영역) 경력 채용",
-		"d-day": "내일마감",
+		"d-day": "오늘마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38440925?Oem_Code=C1&PageGbn=ST",
 		"기업": "현대자동차㈜"
 	},
 	{
 		"title": "유로지스넷 각 부문 신입/경력사원 채용",
-		"d-day": "2022.05.30(월)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38438073?Oem_Code=C1&PageGbn=ST",
 		"기업": "로지스올그룹"
 	},
 	{
 		"title": "[쇼핑엔티] 홈쇼핑 IT운영 담당자 채용",
-		"d-day": "내일마감",
+		"d-day": "오늘마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38436610?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜티알엔"
 	},
 	{
 		"title": "[미래전략본부] 전략기획ㆍ서비스기획ㆍMD 신입 및 경력 채용",
-		"d-day": "내일마감",
+		"d-day": "오늘마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38436062?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜더에스엠씨그룹"
 	},
@@ -325,7 +325,7 @@
 	},
 	{
 		"title": "[기계] 2022년 하계 채용전제형 인턴 채용",
-		"d-day": "내일마감",
+		"d-day": "오늘마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38399508?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜한화"
 	},
@@ -337,7 +337,7 @@
 	},
 	{
 		"title": "해커스 교육그룹 직원전환형 인턴 채용",
-		"d-day": "내일 17시 마감",
+		"d-day": "오늘 17시 마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38389155?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜해커스어학원"
 	},
@@ -349,19 +349,19 @@
 	},
 	{
 		"title": "멀티캠퍼스 2022 상반기 신입 채용",
-		"d-day": "2022.05.30(월)",
+		"d-day": "내일 18시 마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38373593?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜멀티캠퍼스"
 	},
 	{
 		"title": "SK임업 경력직 모집",
-		"d-day": "내일마감",
+		"d-day": "오늘마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38370451?Oem_Code=C1&PageGbn=ST",
 		"기업": "에스케이임업㈜"
 	},
 	{
 		"title": "(주)한진 경력직(IT 기획 /Data 분석) 채용",
-		"d-day": "내일 23시 마감",
+		"d-day": "오늘 23시 마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38369841?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜한진"
 	},
@@ -373,7 +373,7 @@
 	},
 	{
 		"title": "(주)도화엔지니어링 IT개발 신입·경력직 채용",
-		"d-day": "내일마감",
+		"d-day": "오늘마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38359507?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜도화엔지니어링"
 	},
@@ -462,14 +462,8 @@
 		"기업": "교육지대㈜"
 	},
 	{
-		"title": "[직방] 직방가드팀 홈 IoT 분야별 채용",
-		"d-day": "2022.07.12(화)",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/37889882?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜직방"
-	},
-	{
 		"title": "[신입/경력] 기획/마케팅 채용",
-		"d-day": "2022.07.11(월)",
+		"d-day": "2022.07.12(화)",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/37856859?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜해커스어학원"
 	}
