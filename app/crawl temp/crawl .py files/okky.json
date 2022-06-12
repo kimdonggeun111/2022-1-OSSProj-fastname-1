@@ -1,5 +1,35 @@
 [
 	{
+		"title": "파이썬 스터디 모집, 꾸준히 할 분 찾습니다.",
+		"d-day": "2022-06-12",
+		"link": "https://okky.kr/article/1247741"
+	},
+	{
+		"title": "영어 알려드려요(인터뷰및 책 또는 논문 읽기, 기타 원하는 영어) - 경력 많은 개발자, 파이썬 또는 인공지능 알려주세요.",
+		"d-day": "2022-06-12",
+		"link": "https://okky.kr/article/1247740"
+	},
+	{
+		"title": "프론트엔드 입문 기초 스터디",
+		"d-day": "2022-06-11",
+		"link": "https://okky.kr/article/1247723"
+	},
+	{
+		"title": "자바 기초 스터디",
+		"d-day": "2022-06-11",
+		"link": "https://okky.kr/article/1247709"
+	},
+	{
+		"title": "리팩터링 2판 스터디 멤버 모집합니다.",
+		"d-day": "2022-06-11",
+		"link": "https://okky.kr/article/1247585"
+	},
+	{
+		"title": "온라인] 게더타운 코딩 개발자 커뮤니티 인원 모집합니다",
+		"d-day": "2022-06-11",
+		"link": "https://okky.kr/article/1247513"
+	},
+	{
 		"title": "iOS 프로젝트 기획 1인 구합니다.",
 		"d-day": "2022-06-10",
 		"link": "https://okky.kr/article/1247387"
@@ -33,11 +63,6 @@
 		"title": "[경제 스터디] 온라인 기업분석/경제뉴스/독서토론 스터디 맴버 모집",
 		"d-day": "2022-06-10",
 		"link": "https://okky.kr/article/1246687"
-	},
-	{
-		"title": "[FE] 사이드 프로젝트 하실 프론트엔드 개발자 한 분 모십니다.",
-		"d-day": "2022-06-09",
-		"link": "https://okky.kr/article/1246454"
 	},
 	{
 		"title": "스프링 개발자 스터디 DUST 에서 스터디원을 구합니다!",
@@ -363,35 +388,5 @@
 		"title": "[iOS/swift] iOS 개발자 스터디 모집합니다",
 		"d-day": "2022-05-26",
 		"link": "https://okky.kr/article/1236141"
-	},
-	{
-		"title": "☆새벽 공부 한달 챌린지 스터디원 모집☆ 시작날 기준 70%출석제,( 5/23~ 6/17)_도중 참여가능",
-		"d-day": "2022-05-26",
-		"link": "https://okky.kr/article/1236131"
-	},
-	{
-		"title": "iOS 앱 개발 / 사이드 프로젝트 / 커리어 전환자 / 해외취업 모임",
-		"d-day": "2022-05-25",
-		"link": "https://okky.kr/article/1236069"
-	},
-	{
-		"title": "사이드 프로젝트 디자이너 구해요~",
-		"d-day": "2022-05-25",
-		"link": "https://okky.kr/article/1236054"
-	},
-	{
-		"title": "자바스크립트 기초부터 탄탄하게 + 리액트까지 공부하실분 구해요",
-		"d-day": "2022-05-25",
-		"link": "https://okky.kr/article/1235928"
-	},
-	{
-		"title": "웹 사이드 프로젝트 퍼블리셔한분 구합니다!",
-		"d-day": "2022-05-25",
-		"link": "https://okky.kr/article/1235856"
-	},
-	{
-		"title": "[경제 스터디] 온라인 기업분석/경제뉴스/독서토론 스터디 맴버 모집",
-		"d-day": "2022-05-25",
-		"link": "https://okky.kr/article/1235852"
 	}
 ]
