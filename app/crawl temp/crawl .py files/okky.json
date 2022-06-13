@@ -1,5 +1,40 @@
 [
 	{
+		"title": "파이썬 코테 스터디 (신도림 or 구디)",
+		"d-day": "2022-06-13",
+		"link": "https://okky.kr/article/1248111"
+	},
+	{
+		"title": "[대전] 게임개발 스터디 인원을 모집합니다.",
+		"d-day": "2022-06-13",
+		"link": "https://okky.kr/article/1247994"
+	},
+	{
+		"title": "[강일/미사] 동네 스터디 모임 모집합니다",
+		"d-day": "2022-06-13",
+		"link": "https://okky.kr/article/1247990"
+	},
+	{
+		"title": "안산 플러터로 앱개발 공부해보실 분들 모집합니다.",
+		"d-day": "2022-06-13",
+		"link": "https://okky.kr/article/1247984"
+	},
+	{
+		"title": "릿코드 같이 푸실분 구해봅니다",
+		"d-day": "2022-06-12",
+		"link": "https://okky.kr/article/1247918"
+	},
+	{
+		"title": "[안산] 개발자 스터디/사이드 프로젝트",
+		"d-day": "2022-06-12",
+		"link": "https://okky.kr/article/1247826"
+	},
+	{
+		"title": "CS 오프스터디 모집합니다(강남역)",
+		"d-day": "2022-06-12",
+		"link": "https://okky.kr/article/1247773"
+	},
+	{
 		"title": "파이썬 스터디 모집, 꾸준히 할 분 찾습니다.",
 		"d-day": "2022-06-12",
 		"link": "https://okky.kr/article/1247741"
@@ -13,11 +48,6 @@
 		"title": "프론트엔드 입문 기초 스터디",
 		"d-day": "2022-06-11",
 		"link": "https://okky.kr/article/1247723"
-	},
-	{
-		"title": "자바 기초 스터디",
-		"d-day": "2022-06-11",
-		"link": "https://okky.kr/article/1247709"
 	},
 	{
 		"title": "리팩터링 2판 스터디 멤버 모집합니다.",
@@ -55,19 +85,9 @@
 		"link": "https://okky.kr/article/1247127"
 	},
 	{
-		"title": "파이썬 코테 스터디 (신도림 or 구디 인근)",
-		"d-day": "2022-06-10",
-		"link": "https://okky.kr/article/1246738"
-	},
-	{
 		"title": "[경제 스터디] 온라인 기업분석/경제뉴스/독서토론 스터디 맴버 모집",
 		"d-day": "2022-06-10",
 		"link": "https://okky.kr/article/1246687"
-	},
-	{
-		"title": "스프링 개발자 스터디 DUST 에서 스터디원을 구합니다!",
-		"d-day": "2022-06-09",
-		"link": "https://okky.kr/article/1246401"
 	},
 	{
 		"title": "경기도 용인 그룹 프로젝트 하실분 찾습니다",
@@ -368,25 +388,5 @@
 		"title": "백엔드 경력자 모의 면접 스터디를 모집합니다.",
 		"d-day": "2022-05-27",
 		"link": "https://okky.kr/article/1237655"
-	},
-	{
-		"title": "포트폴리오 프로젝트에 참여하고 싶습니다.",
-		"d-day": "2022-05-27",
-		"link": "https://okky.kr/article/1237632"
-	},
-	{
-		"title": "주말/공휴일 아침 8시-11시(9시-12시) 온라인 모각코(집 밖 까페 등에서 출퇴첵 인증)",
-		"d-day": "2022-05-27",
-		"link": "https://okky.kr/article/1237187"
-	},
-	{
-		"title": "사이드 프로젝트 디자이너분 구합니다.",
-		"d-day": "2022-05-26",
-		"link": "https://okky.kr/article/1236454"
-	},
-	{
-		"title": "[iOS/swift] iOS 개발자 스터디 모집합니다",
-		"d-day": "2022-05-26",
-		"link": "https://okky.kr/article/1236141"
 	}
 ]
