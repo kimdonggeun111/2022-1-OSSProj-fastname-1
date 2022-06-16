@@ -1,5 +1,35 @@
 [
 	{
+		"title": "[수원 영통] 자바/스프링 기초부터 스터디 - 추가모집",
+		"d-day": "2022-06-16",
+		"link": "https://okky.kr/article/1251214"
+	},
+	{
+		"title": "[서울/강남]아이폰 SNS+ECommerce 앱 스터디세미나(19년차개발자가 제작시범, 매주진행)",
+		"d-day": "2022-06-15",
+		"link": "https://okky.kr/article/1250740"
+	},
+	{
+		"title": "golang 스터디원 구합니다",
+		"d-day": "2022-06-15",
+		"link": "https://okky.kr/article/1250660"
+	},
+	{
+		"title": "반려동물 헌혈 관리 서비스 주피, 안드로이드 개발자 1명 모집",
+		"d-day": "2022-06-15",
+		"link": "https://okky.kr/article/1250551"
+	},
+	{
+		"title": "3D환경 게임 개발 토이 프로젝트하실 분",
+		"d-day": "2022-06-15",
+		"link": "https://okky.kr/article/1250531"
+	},
+	{
+		"title": "사이드 프로젝트 기획자님을 모집합니다",
+		"d-day": "2022-06-15",
+		"link": "https://okky.kr/article/1250354"
+	},
+	{
 		"title": "1:1 프론트앤드 개발자 멘토링 진행 합니다.",
 		"d-day": "2022-06-14",
 		"link": "https://okky.kr/article/1250020"
@@ -18,11 +48,6 @@
 		"title": "코테 스터디 (신도링 or 구디)",
 		"d-day": "2022-06-14",
 		"link": "https://okky.kr/article/1249601"
-	},
-	{
-		"title": "Swift iOS app 개발 / 사이드 프로젝트 / 팀 구축",
-		"d-day": "2022-06-14",
-		"link": "https://okky.kr/article/1249518"
 	},
 	{
 		"title": "'지속가능한 커뮤니티' 사이드 프로젝트 팀원 모집",
@@ -230,11 +255,6 @@
 		"link": "https://okky.kr/article/1243136"
 	},
 	{
-		"title": "스프링 배치 스터디 추가모집",
-		"d-day": "2022-06-05",
-		"link": "https://okky.kr/article/1243056"
-	},
-	{
 		"title": "[대전]IT기업 취준을 위한 코딩 테스트 스터디",
 		"d-day": "2022-06-04",
 		"link": "https://okky.kr/article/1243028"
@@ -273,11 +293,6 @@
 		"title": "웹 디자이너 분 구해요!",
 		"d-day": "2022-06-02",
 		"link": "https://okky.kr/article/1241810"
-	},
-	{
-		"title": "[eBrainSoft] 웹개발 취준생을 위한 포트폴리오 스터디 2기 모집 안내",
-		"d-day": "2022-06-02",
-		"link": "https://okky.kr/article/1241530"
 	},
 	{
 		"title": "세일즈포스 개발자를 찾습니다!",
@@ -373,20 +388,5 @@
 		"title": "경력 백엔드 개발자 모의면접 스터디",
 		"d-day": "2022-05-29",
 		"link": "https://okky.kr/article/1238396"
-	},
-	{
-		"title": "[구리/남양주] 공기업 전산직 필기 스터디 하실분 모집합니다.",
-		"d-day": "2022-05-28",
-		"link": "https://okky.kr/article/1238190"
-	},
-	{
-		"title": "같이 사이드 프로젝트 만들어 보실 백엔드,프론트 구합니다!",
-		"d-day": "2022-05-28",
-		"link": "https://okky.kr/article/1238185"
-	},
-	{
-		"title": "[온라인]선형대수학 스터디",
-		"d-day": "2022-05-28",
-		"link": "https://okky.kr/article/1238105"
 	}
 ]
