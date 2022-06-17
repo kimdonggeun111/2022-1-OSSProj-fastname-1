@@ -1,8 +1,33 @@
 [
 	{
-		"title": "[수원 영통] 자바/스프링 기초부터 스터디 - 추가모집",
+		"title": "종로/주말/3-6시/오프라인 모각코",
+		"d-day": "2022-06-17",
+		"link": "https://okky.kr/article/1252015"
+	},
+	{
+		"title": "프론트엔드 오프라인 스터디 모집합니다",
+		"d-day": "2022-06-17",
+		"link": "https://okky.kr/article/1251972"
+	},
+	{
+		"title": "안드로이드 개발자 팀원 추가 모집합니다. (강남역 회의, 포트폴리오 목적)",
 		"d-day": "2022-06-16",
-		"link": "https://okky.kr/article/1251214"
+		"link": "https://okky.kr/article/1251943"
+	},
+	{
+		"title": "[모각코/모각작] 토요일 11:00-13:00 스터디원 충원합니다. (신림역)",
+		"d-day": "2022-06-16",
+		"link": "https://okky.kr/article/1251906"
+	},
+	{
+		"title": "[모각코] 여성만 2~4인, 규칙적인 시간(코딩, 식사)",
+		"d-day": "2022-06-16",
+		"link": "https://okky.kr/article/1251790"
+	},
+	{
+		"title": "초보 백엔드 스터디원 모집합니다.",
+		"d-day": "2022-06-16",
+		"link": "https://okky.kr/article/1251680"
 	},
 	{
 		"title": "[서울/강남]아이폰 SNS+ECommerce 앱 스터디세미나(19년차개발자가 제작시범, 매주진행)",
@@ -20,11 +45,6 @@
 		"link": "https://okky.kr/article/1250551"
 	},
 	{
-		"title": "3D환경 게임 개발 토이 프로젝트하실 분",
-		"d-day": "2022-06-15",
-		"link": "https://okky.kr/article/1250531"
-	},
-	{
 		"title": "사이드 프로젝트 기획자님을 모집합니다",
 		"d-day": "2022-06-15",
 		"link": "https://okky.kr/article/1250354"
@@ -38,11 +58,6 @@
 		"title": "같이 프로젝트 진행하실 프론트엔드 개발자분 구합니다~~",
 		"d-day": "2022-06-14",
 		"link": "https://okky.kr/article/1249994"
-	},
-	{
-		"title": "오전 7:30 ~ 8:50 모각코 스터디 모집합니다 :)",
-		"d-day": "2022-06-14",
-		"link": "https://okky.kr/article/1249747"
 	},
 	{
 		"title": "코테 스터디 (신도링 or 구디)",
@@ -63,11 +78,6 @@
 		"title": "서울대입구역 매일 아침 / 저녁 모각코",
 		"d-day": "2022-06-14",
 		"link": "https://okky.kr/article/1249033"
-	},
-	{
-		"title": "강남역 자바 알고리즘 스터디 모집",
-		"d-day": "2022-06-13",
-		"link": "https://okky.kr/article/1248917"
 	},
 	{
 		"title": "[스터디] 제로베이스 부트캠프 백엔드 스쿨 3기 신청자 계신가요?",
@@ -125,11 +135,6 @@
 		"link": "https://okky.kr/article/1247513"
 	},
 	{
-		"title": "iOS 프로젝트 기획 1인 구합니다.",
-		"d-day": "2022-06-10",
-		"link": "https://okky.kr/article/1247387"
-	},
-	{
 		"title": "웹 취준(백엔드) 포폴만드는 스터디 참가 희망합니다",
 		"d-day": "2022-06-10",
 		"link": "https://okky.kr/article/1247386"
@@ -178,11 +183,6 @@
 		"title": "리눅스 커널 스터디를 모집합니다!",
 		"d-day": "2022-06-09",
 		"link": "https://okky.kr/article/1245779"
-	},
-	{
-		"title": "왕초보 온라인 스터디원 모집합니다!(js)",
-		"d-day": "2022-06-08",
-		"link": "https://okky.kr/article/1245401"
 	},
 	{
 		"title": "을지로에서 스터디하실분 모집합니다 어서오세요!",
@@ -383,10 +383,5 @@
 		"title": "[강남] 강남 알고리즘/쿠버네티스 스터디 모집합니다.",
 		"d-day": "2022-05-30",
 		"link": "https://okky.kr/article/1238705"
-	},
-	{
-		"title": "경력 백엔드 개발자 모의면접 스터디",
-		"d-day": "2022-05-29",
-		"link": "https://okky.kr/article/1238396"
 	}
 ]
