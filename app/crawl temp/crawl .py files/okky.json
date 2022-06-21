@@ -1,5 +1,60 @@
 [
 	{
+		"title": "프론트앤드 스터디 하실분 모집합니다.",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254157"
+	},
+	{
+		"title": "[상시 모집 평일 8~10시]토이 프로젝트 파트너분들을 모집합니다(시간 널널하신분, 함께 성장할 초보분 환영)",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254140"
+	},
+	{
+		"title": "웹 포트폴리오 만드는 스터디구합니다!!",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254134"
+	},
+	{
+		"title": "Flutter 초급 스터디 모집",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254106"
+	},
+	{
+		"title": "[flutter] 앱 프로젝트 함께 하실 분 구합니다.",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254104"
+	},
+	{
+		"title": "(재업 - 1명 충원) 안드로이드 팀원 모집합니다. (강남역, 포트폴리오 목적)",
+		"d-day": "2022-06-20",
+		"link": "https://okky.kr/article/1254099"
+	},
+	{
+		"title": "[온라인] 경력 백엔드 개발자 모의 면접 (매주 월,금 오후 7시 30분)",
+		"d-day": "2022-06-20",
+		"link": "https://okky.kr/article/1254002"
+	},
+	{
+		"title": "경기도 광주, 성남에서 같이 스터디 하실 분 구합니다.",
+		"d-day": "2022-06-20",
+		"link": "https://okky.kr/article/1253985"
+	},
+	{
+		"title": "컴퓨터 네트워크 같이 공부하실 분 모집합니다",
+		"d-day": "2022-06-20",
+		"link": "https://okky.kr/article/1253831"
+	},
+	{
+		"title": "[경제 스터디] 온라인 기업분석/경제뉴스/독서토론 스터디 맴버 모집",
+		"d-day": "2022-06-20",
+		"link": "https://okky.kr/article/1253596"
+	},
+	{
+		"title": "웹 사이드프로젝트를 진행하실 프론트엔드 한 분을 모집합니다.",
+		"d-day": "2022-06-20",
+		"link": "https://okky.kr/article/1253469"
+	},
+	{
 		"title": "☆새벽 공부 한달 챌린지 스터디원 모집☆ 시작날 기준 70%출석제,( 6/27~ 7/25)_도중 참여가능",
 		"d-day": "2022-06-20",
 		"link": "https://okky.kr/article/1253177"
@@ -18,11 +73,6 @@
 		"title": "불친절한 PL/SQL 프로그래밍 스터디",
 		"d-day": "2022-06-19",
 		"link": "https://okky.kr/article/1253046"
-	},
-	{
-		"title": "[모집중]토이 프로젝트 파트너분들을 모집합니다(시간 널널하신분, 함께 성장할 초보분 환영)",
-		"d-day": "2022-06-19",
-		"link": "https://okky.kr/article/1253040"
 	},
 	{
 		"title": "위치기반 서비스를 이용한 사이드프로젝트 모임 Application UI/UX 디자이너 모집합니다!!",
@@ -115,11 +165,6 @@
 		"link": "https://okky.kr/article/1250354"
 	},
 	{
-		"title": "1:1 프론트앤드 개발자 멘토링 진행 합니다.",
-		"d-day": "2022-06-14",
-		"link": "https://okky.kr/article/1250020"
-	},
-	{
 		"title": "같이 프로젝트 진행하실 프론트엔드 개발자분 구합니다~~",
 		"d-day": "2022-06-14",
 		"link": "https://okky.kr/article/1249994"
@@ -143,11 +188,6 @@
 		"title": "[스터디] 제로베이스 부트캠프 백엔드 스쿨 3기 신청자 계신가요?",
 		"d-day": "2022-06-13",
 		"link": "https://okky.kr/article/1248875"
-	},
-	{
-		"title": "[경제 스터디] 온라인 기업분석/경제뉴스/독서토론 스터디 맴버 모집",
-		"d-day": "2022-06-13",
-		"link": "https://okky.kr/article/1248810"
 	},
 	{
 		"title": "위치기반 서비스 사이드 프로젝트 모임 어플리케이션 UI/UX 디자이너 구합니다!!",
@@ -315,11 +355,6 @@
 		"link": "https://okky.kr/article/1243136"
 	},
 	{
-		"title": "[대전]IT기업 취준을 위한 코딩 테스트 스터디",
-		"d-day": "2022-06-04",
-		"link": "https://okky.kr/article/1243028"
-	},
-	{
 		"title": "[수원] 코딩테스트 스터디(추가모집)",
 		"d-day": "2022-06-04",
 		"link": "https://okky.kr/article/1242915"
@@ -368,35 +403,5 @@
 		"title": "[서울/강남] 안드로이드 SNS+ECommerce 앱 스터디세미나(현업19년차개발자가 제작시범, 매주 진행)",
 		"d-day": "2022-06-01",
 		"link": "https://okky.kr/article/1240729"
-	},
-	{
-		"title": "DDD 스터디원 구하시는 분 계신가요?",
-		"d-day": "2022-06-01",
-		"link": "https://okky.kr/article/1240727"
-	},
-	{
-		"title": "[온라인] 온라인 도서관 / 코드개발자 스터디 모집합니다",
-		"d-day": "2022-06-01",
-		"link": "https://okky.kr/article/1240678"
-	},
-	{
-		"title": "[flutter] 각자 개발하며 공유하는 플러터 스터디 9기",
-		"d-day": "2022-05-31",
-		"link": "https://okky.kr/article/1240389"
-	},
-	{
-		"title": "게임 주제 사이드프로젝트 인원 모집",
-		"d-day": "2022-05-31",
-		"link": "https://okky.kr/article/1240161"
-	},
-	{
-		"title": "시흥 배곧 모각코",
-		"d-day": "2022-05-31",
-		"link": "https://okky.kr/article/1239961"
-	},
-	{
-		"title": "☆새벽 공부 한달 챌린지 스터디원 모집☆ 시작날 기준 70%출석제,( 5/23~ 6/17)_도중 참여가능",
-		"d-day": "2022-05-31",
-		"link": "https://okky.kr/article/1239557"
 	}
 ]
