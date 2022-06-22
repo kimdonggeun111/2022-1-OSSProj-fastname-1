@@ -1,13 +1,78 @@
 [
 	{
+		"title": "자바스크립트 알고리즘 스터디를 모집합니다(강남)",
+		"d-day": "2022-06-22",
+		"link": "https://okky.kr/article/1255030"
+	},
+	{
+		"title": "주기적으로 개발 관련 정보를 교류하며 함께 성장해나가실 분을 찾습니다 !",
+		"d-day": "2022-06-22",
+		"link": "https://okky.kr/article/1255018"
+	},
+	{
+		"title": "백엔드 책공부 스터디 모집합니다!",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254949"
+	},
+	{
+		"title": "동묘역 앞 CS스터디 모집합니다.",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254946"
+	},
+	{
+		"title": "프로젝트 같이 하실분 모집",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254926"
+	},
+	{
+		"title": "reactnative 개발 멘토님 모셔요!!",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254870"
+	},
+	{
+		"title": "해킹 및 보안 스터디 모집",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254858"
+	},
+	{
+		"title": "[왕십리] 주말 알고리즘 스터디 구인",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254856"
+	},
+	{
+		"title": "운영체제 스터디 모집합니다!",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254849"
+	},
+	{
+		"title": "[node.js 백앤드 1분]토이 프로젝트 파트너분들을 모집합니다(시간 널널하신분, 함께 성장할 초보분 환영)",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254805"
+	},
+	{
+		"title": "“나는 코틀린 마스터” 스터디원을 모집합니다!",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254797"
+	},
+	{
+		"title": "같이 프로젝트 진행할 프론트 개발자분 구합니다.",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254725"
+	},
+	{
+		"title": "사이드 프로젝트 하실 프론트 엔드 두 분 구합니다!",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254565"
+	},
+	{
+		"title": "J2KB 코딩 스터디에서 Contents, Design, Operation 크루 멤버를 모집합니다!",
+		"d-day": "2022-06-21",
+		"link": "https://okky.kr/article/1254331"
+	},
+	{
 		"title": "프론트앤드 스터디 하실분 모집합니다.",
 		"d-day": "2022-06-21",
 		"link": "https://okky.kr/article/1254157"
-	},
-	{
-		"title": "[상시 모집 평일 8~10시]토이 프로젝트 파트너분들을 모집합니다(시간 널널하신분, 함께 성장할 초보분 환영)",
-		"d-day": "2022-06-21",
-		"link": "https://okky.kr/article/1254140"
 	},
 	{
 		"title": "웹 포트폴리오 만드는 스터디구합니다!!",
@@ -15,19 +80,9 @@
 		"link": "https://okky.kr/article/1254134"
 	},
 	{
-		"title": "Flutter 초급 스터디 모집",
-		"d-day": "2022-06-21",
-		"link": "https://okky.kr/article/1254106"
-	},
-	{
 		"title": "[flutter] 앱 프로젝트 함께 하실 분 구합니다.",
 		"d-day": "2022-06-21",
 		"link": "https://okky.kr/article/1254104"
-	},
-	{
-		"title": "(재업 - 1명 충원) 안드로이드 팀원 모집합니다. (강남역, 포트폴리오 목적)",
-		"d-day": "2022-06-20",
-		"link": "https://okky.kr/article/1254099"
 	},
 	{
 		"title": "[온라인] 경력 백엔드 개발자 모의 면접 (매주 월,금 오후 7시 30분)",
@@ -38,11 +93,6 @@
 		"title": "경기도 광주, 성남에서 같이 스터디 하실 분 구합니다.",
 		"d-day": "2022-06-20",
 		"link": "https://okky.kr/article/1253985"
-	},
-	{
-		"title": "컴퓨터 네트워크 같이 공부하실 분 모집합니다",
-		"d-day": "2022-06-20",
-		"link": "https://okky.kr/article/1253831"
 	},
 	{
 		"title": "[경제 스터디] 온라인 기업분석/경제뉴스/독서토론 스터디 맴버 모집",
@@ -125,11 +175,6 @@
 		"link": "https://okky.kr/article/1252209"
 	},
 	{
-		"title": "안드로이드 개발자 팀원 추가 모집합니다. (강남역 회의, 포트폴리오 목적)",
-		"d-day": "2022-06-16",
-		"link": "https://okky.kr/article/1251943"
-	},
-	{
 		"title": "[모각코/모각작] 토요일 11:00-13:00 스터디원 충원합니다. (신림역)",
 		"d-day": "2022-06-16",
 		"link": "https://okky.kr/article/1251906"
@@ -155,19 +200,9 @@
 		"link": "https://okky.kr/article/1250660"
 	},
 	{
-		"title": "반려동물 헌혈 관리 서비스 주피, 안드로이드 개발자 1명 모집",
-		"d-day": "2022-06-15",
-		"link": "https://okky.kr/article/1250551"
-	},
-	{
 		"title": "사이드 프로젝트 기획자님을 모집합니다",
 		"d-day": "2022-06-15",
 		"link": "https://okky.kr/article/1250354"
-	},
-	{
-		"title": "같이 프로젝트 진행하실 프론트엔드 개발자분 구합니다~~",
-		"d-day": "2022-06-14",
-		"link": "https://okky.kr/article/1249994"
 	},
 	{
 		"title": "'지속가능한 커뮤니티' 사이드 프로젝트 팀원 모집",
@@ -378,30 +413,5 @@
 		"title": "취준생 공모전 같이 나가실 분을 구합니다! (2~3명)",
 		"d-day": "2022-06-03",
 		"link": "https://okky.kr/article/1242741"
-	},
-	{
-		"title": "파이썬 코테 대비 스터디원 모집합니다 (~6/16)",
-		"d-day": "2022-06-03",
-		"link": "https://okky.kr/article/1242530"
-	},
-	{
-		"title": "웹 디자이너 분 구해요!",
-		"d-day": "2022-06-02",
-		"link": "https://okky.kr/article/1241810"
-	},
-	{
-		"title": "세일즈포스 개발자를 찾습니다!",
-		"d-day": "2022-06-02",
-		"link": "https://okky.kr/article/1241229"
-	},
-	{
-		"title": "지속적으로 토이프로젝트를 진행하실 프론트엔드분 모집합니다.",
-		"d-day": "2022-06-01",
-		"link": "https://okky.kr/article/1240854"
-	},
-	{
-		"title": "[서울/강남] 안드로이드 SNS+ECommerce 앱 스터디세미나(현업19년차개발자가 제작시범, 매주 진행)",
-		"d-day": "2022-06-01",
-		"link": "https://okky.kr/article/1240729"
 	}
 ]
