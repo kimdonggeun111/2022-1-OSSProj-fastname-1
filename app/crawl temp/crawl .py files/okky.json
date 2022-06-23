@@ -1,8 +1,53 @@
 [
 	{
-		"title": "자바스크립트 알고리즘 스터디를 모집합니다(강남)",
+		"title": "프로젝트 함께하실 프론트엔드 한 분을 구합니다.",
+		"d-day": "2022-06-23",
+		"link": "https://okky.kr/article/1255983"
+	},
+	{
+		"title": "☆새벽 공부 한달 챌린지 스터디원 모집☆ 시작날 기준 70%출석제,( 6/27~ 7/25)_도중 참여가능",
+		"d-day": "2022-06-23",
+		"link": "https://okky.kr/article/1255809"
+	},
+	{
+		"title": "사이드프로젝트를 진행하실 프론트엔드 분을 구합니다",
+		"d-day": "2022-06-23",
+		"link": "https://okky.kr/article/1255803"
+	},
+	{
+		"title": "리팩터링2 스터디원 모집합니다. (추가 2명 모집, 현재 인원 4명)",
 		"d-day": "2022-06-22",
-		"link": "https://okky.kr/article/1255030"
+		"link": "https://okky.kr/article/1255741"
+	},
+	{
+		"title": "토비의 스프링 같이 공부하실 분!!",
+		"d-day": "2022-06-22",
+		"link": "https://okky.kr/article/1255693"
+	},
+	{
+		"title": "[서울/강남] 안드로이드 SNS+ECommerce 앱 스터디세미나(현업19년차개발자가 제작시범, 매주 진행)",
+		"d-day": "2022-06-22",
+		"link": "https://okky.kr/article/1255502"
+	},
+	{
+		"title": "프론트엔드 면접 준비 인원 모집",
+		"d-day": "2022-06-22",
+		"link": "https://okky.kr/article/1255497"
+	},
+	{
+		"title": "서울대입구역 작심스터디카페 매일 모각코",
+		"d-day": "2022-06-22",
+		"link": "https://okky.kr/article/1255481"
+	},
+	{
+		"title": "코딩테스트(JAVASCRIPT사용) 정기 스터디 모집합니다.",
+		"d-day": "2022-06-22",
+		"link": "https://okky.kr/article/1255406"
+	},
+	{
+		"title": "[온라인] 경력 백엔드 개발자 모의 면접 (매주 월,금 오후 7시 30분)",
+		"d-day": "2022-06-22",
+		"link": "https://okky.kr/article/1255175"
 	},
 	{
 		"title": "주기적으로 개발 관련 정보를 교류하며 함께 성장해나가실 분을 찾습니다 !",
@@ -43,11 +88,6 @@
 		"title": "운영체제 스터디 모집합니다!",
 		"d-day": "2022-06-21",
 		"link": "https://okky.kr/article/1254849"
-	},
-	{
-		"title": "[node.js 백앤드 1분]토이 프로젝트 파트너분들을 모집합니다(시간 널널하신분, 함께 성장할 초보분 환영)",
-		"d-day": "2022-06-21",
-		"link": "https://okky.kr/article/1254805"
 	},
 	{
 		"title": "“나는 코틀린 마스터” 스터디원을 모집합니다!",
@@ -100,11 +140,6 @@
 		"link": "https://okky.kr/article/1253596"
 	},
 	{
-		"title": "웹 사이드프로젝트를 진행하실 프론트엔드 한 분을 모집합니다.",
-		"d-day": "2022-06-20",
-		"link": "https://okky.kr/article/1253469"
-	},
-	{
 		"title": "☆새벽 공부 한달 챌린지 스터디원 모집☆ 시작날 기준 70%출석제,( 6/27~ 7/25)_도중 참여가능",
 		"d-day": "2022-06-20",
 		"link": "https://okky.kr/article/1253177"
@@ -140,11 +175,6 @@
 		"link": "https://okky.kr/article/1252948"
 	},
 	{
-		"title": "Dream+ 2기 iOS 무료 오프라인 강의를 진행합니다.",
-		"d-day": "2022-06-18",
-		"link": "https://okky.kr/article/1252870"
-	},
-	{
 		"title": "nextjs & tailwindcss 클론코딩 스터디 모집",
 		"d-day": "2022-06-18",
 		"link": "https://okky.kr/article/1252831"
@@ -163,11 +193,6 @@
 		"title": "웹 취준(백엔드) 포폴만드는 스터디 참가 희망합니다.",
 		"d-day": "2022-06-17",
 		"link": "https://okky.kr/article/1252643"
-	},
-	{
-		"title": "알고리즘 스터디 인원충원합니다. ㅎㅎ",
-		"d-day": "2022-06-17",
-		"link": "https://okky.kr/article/1252462"
 	},
 	{
 		"title": "고등학생 개발자 모임",
@@ -365,11 +390,6 @@
 		"link": "https://okky.kr/article/1243311"
 	},
 	{
-		"title": "대구 팀플 모각코 스터디",
-		"d-day": "2022-06-06",
-		"link": "https://okky.kr/article/1243309"
-	},
-	{
 		"title": "알고리즘 스터디(JAVASCRIPT) 2명 모집합니다.",
 		"d-day": "2022-06-06",
 		"link": "https://okky.kr/article/1243301"
@@ -393,25 +413,5 @@
 		"title": "[수원] 코딩테스트 스터디(추가모집)",
 		"d-day": "2022-06-04",
 		"link": "https://okky.kr/article/1242915"
-	},
-	{
-		"title": "코딩테스트 부담없이 온라인 스터디 하실분 계신가요?",
-		"d-day": "2022-06-04",
-		"link": "https://okky.kr/article/1242899"
-	},
-	{
-		"title": "연휴 3일 동안 같이 공부하실분 ~(모각코)",
-		"d-day": "2022-06-04",
-		"link": "https://okky.kr/article/1242861"
-	},
-	{
-		"title": "WebRTC 스터디 하실 분 (추가모집)",
-		"d-day": "2022-06-03",
-		"link": "https://okky.kr/article/1242771"
-	},
-	{
-		"title": "취준생 공모전 같이 나가실 분을 구합니다! (2~3명)",
-		"d-day": "2022-06-03",
-		"link": "https://okky.kr/article/1242741"
 	}
 ]
