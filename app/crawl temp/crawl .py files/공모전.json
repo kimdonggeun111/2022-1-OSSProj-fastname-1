@@ -592,6 +592,13 @@
 		"분류": "공모전"
 	},
 	{
+		"title": "제10회 소방산업 우수 디자인 공모전",
+		"d-day": "2022-08-19",
+		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=48433",
+		"tag": "대학(원)생",
+		"분류": "공모전"
+	},
+	{
 		"title": "디지털 헬스케어 『MEDICAL HACK 2022』",
 		"d-day": "2022-07-24",
 		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=48408",
@@ -623,6 +630,20 @@
 		"title": "제2회 국립생태원 연구논문 공모전(~7/31)",
 		"d-day": "2022-07-31",
 		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=42486",
+		"tag": "대학(원)생",
+		"분류": "공모전"
+	},
+	{
+		"title": "대웅제약-경남TP 바이오 스타트업 스튜디오 공모전",
+		"d-day": "2022-07-10",
+		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=48710",
+		"tag": "대학(원)생",
+		"분류": "공모전"
+	},
+	{
+		"title": "제8회 IBS Art in Science 공모전",
+		"d-day": "2022-08-16",
+		"link": "https://www.thinkcontest.com//Contest/ContestDetail.html?id=48707",
 		"tag": "대학(원)생",
 		"분류": "공모전"
 	},
@@ -962,27 +983,51 @@
 		"분류": "대외활동"
 	},
 	{
-		"title": "제7회 대한민국 국제 관광박람회 라이트업 서포터즈 7기 모집  ",
+		"title": "제26회 LH 대학생 주택건축대전 ",
+		"d-day": "22-07-01",
+		"link": "https://thinkyou.co.kr//contest/25457/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "KISA 인터넷거버넌스 집중교육 참여자 모집  ",
+		"d-day": "22-06-28",
+		"link": "https://thinkyou.co.kr//contest/26068/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "한국소비자연맹 2022년 대소동7기(대학생 홍보단) 모집 공고  ",
+		"d-day": "22-06-26",
+		"link": "https://thinkyou.co.kr//contest/26042/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "축구산업 아카데미 18기 ",
+		"d-day": "22-07-01",
+		"link": "https://thinkyou.co.kr//contest/26014/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "제7회 대한민국 국제 관광박람회 라이트업 서포터즈 7기 모집 ",
 		"d-day": "22-06-24",
 		"link": "https://thinkyou.co.kr//contest/26004/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "바이로담 서포터즈 '로담하트 1기' 대 모집  ",
+		"title": "바이로담 서포터즈 '로담하트 1기' 대 모집 ",
 		"d-day": "22-06-29",
 		"link": "https://thinkyou.co.kr//contest/25998/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "제이앤비솔루션 마케팅(Marketing) 직무체험 프로젝트 1기 모집  ",
-		"d-day": "22-06-25",
-		"link": "https://thinkyou.co.kr//contest/25977/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"title": "영어 교육비 전액지원, 유암문화재단 청년멘토 3기 모집 ",
+		"d-day": "22-06-29",
+		"link": "https://thinkyou.co.kr//contest/25994/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "2022년 대소동7기(대학생 홍보단) 모집 ",
-		"d-day": "22-06-26",
-		"link": "https://thinkyou.co.kr//contest/25959/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"title": "제이앤비솔루션 마케팅(Marketing) 직무체험 프로젝트 1기 모집 ",
+		"d-day": "22-06-25",
+		"link": "https://thinkyou.co.kr//contest/25977/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
@@ -1019,6 +1064,12 @@
 		"title": "2022 중랑청년네트워크 4기 위원 모집(추가모집) ",
 		"d-day": "22-06-30",
 		"link": "https://thinkyou.co.kr//contest/25894/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "2022 현대오토에버 스마트모빌리티 공학 체험교육 대학생 멘토 모집 ",
+		"d-day": "22-06-29",
+		"link": "https://thinkyou.co.kr//contest/25892/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
@@ -1100,12 +1151,6 @@
 		"분류": "대외활동"
 	},
 	{
-		"title": "2022 부산국제광고제 온라인 서포터즈 모집 ",
-		"d-day": "22-06-23",
-		"link": "https://thinkyou.co.kr//contest/25721/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
 		"title": "국립대한민국임시정부기념관 교육 서포터즈 '임플루언서' 1기 모집 ",
 		"d-day": "22-06-30",
 		"link": "https://thinkyou.co.kr//contest/25716/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
@@ -1144,37 +1189,31 @@
 	{
 		"title": "퀄컴 IT Tour 2022 ",
 		"d-day": "22-06-30",
-		"link": "https://thinkyou.co.kr//contest/25645/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25645/?page=2&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
 		"title": "2022년 문화가 있는 날 <청춘마이크> 인천권 - 시민 평가단 모집 ",
 		"d-day": "22-06-24",
-		"link": "https://thinkyou.co.kr//contest/25635/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
-		"title": "북한강제실종 차세대 청년 전문가 양성 프로그램 ",
-		"d-day": "22-06-23",
-		"link": "https://thinkyou.co.kr//contest/25614/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25635/?page=2&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
 		"title": "2022년 서부공감 위피스쿨 11기 대학생 멘토 모집 ",
 		"d-day": "22-06-26",
-		"link": "https://thinkyou.co.kr//contest/25610/?page=1&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
-		"title": "2022 AI(인공지능) 중급반 교육생 모집 ",
-		"d-day": "22-06-23",
-		"link": "https://thinkyou.co.kr//contest/25604/?page=2&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25610/?page=2&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
 		"title": "기술개방형 혁신전문가 양성 취업연계 교육 인턴 등 ",
 		"d-day": "22-06-30",
 		"link": "https://thinkyou.co.kr//contest/25602/?page=2&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "[한국MICE협회] 2022 영마이스 리더 프로젝트 ",
+		"d-day": "22-07-01",
+		"link": "https://thinkyou.co.kr//contest/25591/?page=2&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
@@ -1208,24 +1247,6 @@
 		"분류": "대외활동"
 	},
 	{
-		"title": "[KODA] 언론진흥재단 디지털 마케터 교육(채용) 연계 ",
-		"d-day": "22-06-23",
-		"link": "https://thinkyou.co.kr//contest/25526/?page=2&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
-		"title": "NIA 데.멘.토(데이터 멘토링) 프로그램 ",
-		"d-day": "22-06-23",
-		"link": "https://thinkyou.co.kr//contest/25525/?page=2&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
-		"title": "[KODA] 서울시 퍼포먼스 마케터 교육생 모집 (취업연계) ",
-		"d-day": "22-06-23",
-		"link": "https://thinkyou.co.kr//contest/25524/?page=2&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
 		"title": "제20회 임베디드 소프트웨어 경진대회 ",
 		"d-day": "22-06-27",
 		"link": "https://thinkyou.co.kr//contest/25507/?page=2&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
@@ -1241,12 +1262,6 @@
 		"title": "K-이노스 캠퍼스타운 창업스쿨 ",
 		"d-day": "22-06-30",
 		"link": "https://thinkyou.co.kr//contest/25460/?page=2&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
-		"title": "현대차 정몽구 재단 ONSO ESG COLLEGE 1기 모집 ",
-		"d-day": "22-06-23",
-		"link": "https://thinkyou.co.kr//contest/25438/?page=2&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
@@ -1292,15 +1307,15 @@
 		"분류": "대외활동"
 	},
 	{
-		"title": "K-디지털 기초역량훈련 데이터 분석을 위한 왕초보 머신러닝 과정 ",
-		"d-day": "22-06-23",
-		"link": "https://thinkyou.co.kr//contest/25112/?page=2&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
 		"title": "함께 성장하는 AI학교 아이펠(AIFFEL) ",
 		"d-day": "22-06-24",
 		"link": "https://thinkyou.co.kr//contest/25083/?page=2&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "제11회 글나라 백일장 대회 생각이 머무는 1박 2일 ",
+		"d-day": "22-06-25",
+		"link": "https://thinkyou.co.kr//contest/25033/?page=2&pagesize=35&serstatus=0&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
@@ -1364,9 +1379,9 @@
 		"분류": "대외활동"
 	},
 	{
-		"title": "제26회 LH 대학생 주택건축대전 ",
-		"d-day": "22-07-01",
-		"link": "https://thinkyou.co.kr//contest/25457/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"title": "2022 제18회 한국능률협회컨설팅 경영혁신 대학(원)생 공모전  ",
+		"d-day": "22-08-12",
+		"link": "https://thinkyou.co.kr//contest/26062/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
@@ -1382,109 +1397,151 @@
 		"분류": "대외활동"
 	},
 	{
-		"title": "2022 엔지니어링 경진대회  ",
+		"title": "[한국지멘스 디지털 인더스트리] 제 9회 스마트 NC 경진대회  ",
+		"d-day": "22-06-30",
+		"link": "https://thinkyou.co.kr//contest/26073/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "신용보증기금 제2기 코딧투게더 대학생 봉사단  ",
+		"d-day": "22-07-03",
+		"link": "https://thinkyou.co.kr//contest/26066/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "삼성 금융전문가 과정 18-2기 교육생 모집  ",
+		"d-day": "22-07-15",
+		"link": "https://thinkyou.co.kr//contest/26065/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "2022년 공공누리 대학생 서포터즈 1기  ",
+		"d-day": "22-07-03",
+		"link": "https://thinkyou.co.kr//contest/26045/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "금융권 취업 관련 단기 금융교육 S.F.A(Special Finance Academy) 3기  ",
+		"d-day": "22-07-15",
+		"link": "https://thinkyou.co.kr//contest/26039/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "DB 제62~63회 대학생 온라인 기업경영 체험스쿨 참가자 모집  ",
+		"d-day": "22-07-11",
+		"link": "https://thinkyou.co.kr//contest/26035/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "금융권 멀티플레이어, 타임금융교육원 금융실무과정63기 모집안내  ",
+		"d-day": "22-07-02",
+		"link": "https://thinkyou.co.kr//contest/26033/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "[케이스스터디-브랜드마케터편] 마케터 실무 준비  ",
+		"d-day": "22-07-19",
+		"link": "https://thinkyou.co.kr//contest/26031/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "2030부산세계박람회 유치해 서포터즈  ",
+		"d-day": "22-07-06",
+		"link": "https://thinkyou.co.kr//contest/26025/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"분류": "대외활동"
+	},
+	{
+		"title": "2022 엔지니어링 경진대회 ",
 		"d-day": "22-07-08",
 		"link": "https://thinkyou.co.kr//contest/25971/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "축구산업 아카데미 18기  ",
-		"d-day": "22-07-01",
-		"link": "https://thinkyou.co.kr//contest/26014/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
-		"title": "[국가경영전략연구원] 청년 성장 프로그램 UNLOCK 온라인 토론회  ",
+		"title": "[국가경영전략연구원] 청년 성장 프로그램 UNLOCK 온라인 토론회 ",
 		"d-day": "22-07-10",
 		"link": "https://thinkyou.co.kr//contest/26011/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "7기 서대문대학생서포터즈 S-지니어 모집  ",
+		"title": "7기 서대문대학생서포터즈 S-지니어 모집 ",
 		"d-day": "22-07-14",
 		"link": "https://thinkyou.co.kr//contest/26009/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "[대웅제약X피치마켓] 느린학습자 독서멘토링, 참지마요 교육봉사단 6기 모집  ",
+		"title": "[대웅제약X피치마켓] 느린학습자 독서멘토링, 참지마요 교육봉사단 6기 모집 ",
 		"d-day": "22-07-31",
 		"link": "https://thinkyou.co.kr//contest/26008/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "2022 유니브 엑스포 부산 서포터즈 '블리스' 모집  ",
+		"title": "2022 유니브 엑스포 부산 서포터즈 '블리스' 모집 ",
 		"d-day": "22-06-30",
 		"link": "https://thinkyou.co.kr//contest/26007/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "SDG 라이프 리뷰어 (Lfie Reviewer) 제품 리뷰 참가자 모집  ",
+		"title": "SDG 라이프 리뷰어 (Lfie Reviewer) 제품 리뷰 참가자 모집 ",
 		"d-day": "22-07-29",
 		"link": "https://thinkyou.co.kr//contest/26005/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "과학기술인재정책 플랫폼 8기 서포터즈 모집  ",
+		"title": "과학기술인재정책 플랫폼 8기 서포터즈 모집 ",
 		"d-day": "22-08-07",
 		"link": "https://thinkyou.co.kr//contest/26000/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "홍릉 도시재생 크리에이터 '마케터스' 모집  ",
+		"title": "홍릉 도시재생 크리에이터 '마케터스' 모집 ",
 		"d-day": "22-07-03",
 		"link": "https://thinkyou.co.kr//contest/25997/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "코딩월드뉴스 12기 에디터 모집  ",
+		"title": "코딩월드뉴스 12기 에디터 모집 ",
 		"d-day": "22-07-12",
 		"link": "https://thinkyou.co.kr//contest/25996/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "제11회 스웨덴영화제 청년 엠버서더 모집  ",
+		"title": "제11회 스웨덴영화제 청년 엠버서더 모집 ",
 		"d-day": "22-07-15",
 		"link": "https://thinkyou.co.kr//contest/25995/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "영어 교육비 전액지원, 유암문화재단 청년멘토 3기 모집  ",
-		"d-day": "22-06-29",
-		"link": "https://thinkyou.co.kr//contest/25994/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
-		"title": "2022 코리아헤럴드 글로벌 명예 기자단 1기 모집  ",
+		"title": "2022 코리아헤럴드 글로벌 명예 기자단 1기 모집 ",
 		"d-day": "22-07-03",
 		"link": "https://thinkyou.co.kr//contest/25989/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "글로벌지식협력단지 한국경제발전전시관 7기 도슨트 모집  ",
+		"title": "글로벌지식협력단지 한국경제발전전시관 7기 도슨트 모집 ",
 		"d-day": "22-06-30",
 		"link": "https://thinkyou.co.kr//contest/25988/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "2022 B.Startup 캠퍼스 리빙랩(Campus Living Lab) 참가자 모집  ",
+		"title": "2022 B.Startup 캠퍼스 리빙랩(Campus Living Lab) 참가자 모집 ",
 		"d-day": "22-07-08",
 		"link": "https://thinkyou.co.kr//contest/25986/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "2022 강서청소년회관 대학생기획단 DAYDAY 6기 모집  ",
+		"title": "2022 강서청소년회관 대학생기획단 DAYDAY 6기 모집 ",
 		"d-day": "22-12-31",
 		"link": "https://thinkyou.co.kr//contest/25985/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "판타지움 1기 서포터즈 모집  ",
+		"title": "판타지움 1기 서포터즈 모집 ",
 		"d-day": "22-07-15",
 		"link": "https://thinkyou.co.kr//contest/25983/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
-		"title": "인천 SOS랩 시민연구원 3기  ",
+		"title": "인천 SOS랩 시민연구원 3기 ",
 		"d-day": "22-07-08",
 		"link": "https://thinkyou.co.kr//contest/25975/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
@@ -1534,55 +1591,49 @@
 	{
 		"title": "영덕 문화재 야행 대학생 서포터즈 모집 ",
 		"d-day": "22-07-04",
-		"link": "https://thinkyou.co.kr//contest/25949/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25949/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
 		"title": "제19기 청년인권학교 ",
 		"d-day": "22-07-25",
-		"link": "https://thinkyou.co.kr//contest/25948/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25948/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
 		"title": "AI기반 응용 SW개발자 양성 & 취업연계 과정 교육생 모집 ",
 		"d-day": "22-07-10",
-		"link": "https://thinkyou.co.kr//contest/25932/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25932/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
 		"title": "지능형 로봇 서비스 개발을 위한 소프트웨어 개발자 양성 & 취업연계 과정 교육생 모집 ",
 		"d-day": "22-07-10",
-		"link": "https://thinkyou.co.kr//contest/25931/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25931/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
 		"title": "빅데이터 예측분석과 모델링을 활용한 서비스 개발자 양성과정 교육생 모집 ",
 		"d-day": "22-07-10",
-		"link": "https://thinkyou.co.kr//contest/25930/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25930/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
 		"title": "메타버스 구축을 위한 XR 콘텐츠 프로그래밍 과정 교육생 모집 ",
 		"d-day": "22-07-10",
-		"link": "https://thinkyou.co.kr//contest/25929/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25929/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
 		"title": "빅데이터 분석 기반 비즈니스개발자 양성 & 취업연계 과정 교육생 모집 ",
 		"d-day": "22-07-10",
-		"link": "https://thinkyou.co.kr//contest/25928/?page=1&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
+		"link": "https://thinkyou.co.kr//contest/25928/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
 		"title": "제18회 한국능률협회컨설팅 경영혁신 대학(원)생 공모전 ",
 		"d-day": "22-08-12",
 		"link": "https://thinkyou.co.kr//contest/25926/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
-		"title": "월드잡플러스 서포터즈 9기 모집 ",
-		"d-day": "22-07-03",
-		"link": "https://thinkyou.co.kr//contest/25921/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
@@ -1601,18 +1652,6 @@
 		"title": "관광마케팅,MICE 실무 교육생 모집 ",
 		"d-day": "22-07-04",
 		"link": "https://thinkyou.co.kr//contest/25891/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
-		"title": "2022 ASML KOREA 캠퍼스 프로모터 모집 ",
-		"d-day": "22-07-15",
-		"link": "https://thinkyou.co.kr//contest/25890/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
-		"title": "월드잡플러스 서포터즈 9기 모집 ",
-		"d-day": "22-07-03",
-		"link": "https://thinkyou.co.kr//contest/25873/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
@@ -1643,12 +1682,6 @@
 		"title": "청년마음건강 <마인드링크> 서포터즈 2기 모집 ",
 		"d-day": "22-07-01",
 		"link": "https://thinkyou.co.kr//contest/25895/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
-		"title": "2022 현대오토에버 스마트모빌리티 공학 체험교육 대학생 멘토 모집 ",
-		"d-day": "22-06-29",
-		"link": "https://thinkyou.co.kr//contest/25892/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	},
 	{
@@ -1763,24 +1796,6 @@
 		"title": "충북콘텐츠코리아랩 홍보기자단 부기즈 9기 추가모집 ",
 		"d-day": "22-07-04",
 		"link": "https://thinkyou.co.kr//contest/25744/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
-		"title": "2022년 제42회 전국만해백일장 ",
-		"d-day": "22-07-03",
-		"link": "https://thinkyou.co.kr//contest/25735/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
-		"title": "제6회 신석초 전국 시낭송 대회 ",
-		"d-day": "22-08-31",
-		"link": "https://thinkyou.co.kr//contest/25679/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
-		"분류": "대외활동"
-	},
-	{
-		"title": "대전광역시서구정신건강복지센터 청년 서포터즈단 '마음이어유' 2기 모집 ",
-		"d-day": "22-07-06",
-		"link": "https://thinkyou.co.kr//contest/25644/?page=2&pagesize=35&serstatus=1&serdivision=&serfield=5,6&sertarget=0&serprizeMoney=&seritem=0&searchstr=",
 		"분류": "대외활동"
 	}
 ]

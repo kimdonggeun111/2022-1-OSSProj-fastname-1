@@ -1,5 +1,40 @@
 [
 	{
+		"title": "nextjs & tailwindcss 클론 스터디 모집",
+		"d-day": "2022-06-23",
+		"link": "https://okky.kr/article/1256688"
+	},
+	{
+		"title": "리액트 스터디 모집 합니다! ^^",
+		"d-day": "2022-06-23",
+		"link": "https://okky.kr/article/1256345"
+	},
+	{
+		"title": "취준생을 위한 취업 멘토링, 이력서첨삭, 모의면접(영어 가능) 진행합니다. (전 네이버-현 아마존 개발자)",
+		"d-day": "2022-06-23",
+		"link": "https://okky.kr/article/1256321"
+	},
+	{
+		"title": "백엔드 기술면접 대비 cs 스터디",
+		"d-day": "2022-06-23",
+		"link": "https://okky.kr/article/1256316"
+	},
+	{
+		"title": "운영체제 스터디 모집합니다.",
+		"d-day": "2022-06-23",
+		"link": "https://okky.kr/article/1256313"
+	},
+	{
+		"title": "대구 각코모, IT수다 오픈챗방입니다.",
+		"d-day": "2022-06-23",
+		"link": "https://okky.kr/article/1256201"
+	},
+	{
+		"title": "[알고리즘&자료구조] 코딩 테스트 공부 하실 분을 모집합니다.",
+		"d-day": "2022-06-23",
+		"link": "https://okky.kr/article/1256021"
+	},
+	{
 		"title": "프로젝트 함께하실 프론트엔드 한 분을 구합니다.",
 		"d-day": "2022-06-23",
 		"link": "https://okky.kr/article/1255983"
@@ -40,14 +75,14 @@
 		"link": "https://okky.kr/article/1255481"
 	},
 	{
-		"title": "코딩테스트(JAVASCRIPT사용) 정기 스터디 모집합니다.",
-		"d-day": "2022-06-22",
-		"link": "https://okky.kr/article/1255406"
-	},
-	{
 		"title": "[온라인] 경력 백엔드 개발자 모의 면접 (매주 월,금 오후 7시 30분)",
 		"d-day": "2022-06-22",
 		"link": "https://okky.kr/article/1255175"
+	},
+	{
+		"title": "자바스크립트 알고리즘 스터디원 모집합니다(강남)",
+		"d-day": "2022-06-22",
+		"link": "https://okky.kr/article/1255030"
 	},
 	{
 		"title": "주기적으로 개발 관련 정보를 교류하며 함께 성장해나가실 분을 찾습니다 !",
@@ -68,11 +103,6 @@
 		"title": "프로젝트 같이 하실분 모집",
 		"d-day": "2022-06-21",
 		"link": "https://okky.kr/article/1254926"
-	},
-	{
-		"title": "reactnative 개발 멘토님 모셔요!!",
-		"d-day": "2022-06-21",
-		"link": "https://okky.kr/article/1254870"
 	},
 	{
 		"title": "해킹 및 보안 스터디 모집",
@@ -100,11 +130,6 @@
 		"link": "https://okky.kr/article/1254725"
 	},
 	{
-		"title": "사이드 프로젝트 하실 프론트 엔드 두 분 구합니다!",
-		"d-day": "2022-06-21",
-		"link": "https://okky.kr/article/1254565"
-	},
-	{
 		"title": "J2KB 코딩 스터디에서 Contents, Design, Operation 크루 멤버를 모집합니다!",
 		"d-day": "2022-06-21",
 		"link": "https://okky.kr/article/1254331"
@@ -113,11 +138,6 @@
 		"title": "프론트앤드 스터디 하실분 모집합니다.",
 		"d-day": "2022-06-21",
 		"link": "https://okky.kr/article/1254157"
-	},
-	{
-		"title": "웹 포트폴리오 만드는 스터디구합니다!!",
-		"d-day": "2022-06-21",
-		"link": "https://okky.kr/article/1254134"
 	},
 	{
 		"title": "[flutter] 앱 프로젝트 함께 하실 분 구합니다.",
@@ -398,20 +418,5 @@
 		"title": "선릉또는삼성 카페에서 모각코 하실분?",
 		"d-day": "2022-06-06",
 		"link": "https://okky.kr/article/1243282"
-	},
-	{
-		"title": "사이드프로젝트 디자이너 구합니다(웹페이지)",
-		"d-day": "2022-06-05",
-		"link": "https://okky.kr/article/1243183"
-	},
-	{
-		"title": "일산쪽에서 코딩 공부하시는분들 단톡방/모각코 같이하실까요?",
-		"d-day": "2022-06-05",
-		"link": "https://okky.kr/article/1243136"
-	},
-	{
-		"title": "[수원] 코딩테스트 스터디(추가모집)",
-		"d-day": "2022-06-04",
-		"link": "https://okky.kr/article/1242915"
 	}
 ]
