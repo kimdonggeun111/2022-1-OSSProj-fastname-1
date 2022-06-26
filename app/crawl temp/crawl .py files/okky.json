@@ -1,8 +1,28 @@
 [
 	{
-		"title": "[온라인]토요일 오전10시 1시간씩 js알고리즘 스터디해요",
+		"title": "위치기반 서비스를 이용한 사이드프로젝트 모임 BackEnd 엔지니어 분 구합니다!!",
 		"d-day": "2022-06-25",
-		"link": "https://okky.kr/article/1257568"
+		"link": "https://okky.kr/article/1257682"
+	},
+	{
+		"title": "위치기반 서비스를 이용한 사이드프로젝트 모임 Application UI/UX 디자이너 모집합니다!!",
+		"d-day": "2022-06-25",
+		"link": "https://okky.kr/article/1257675"
+	},
+	{
+		"title": "java 프로젝트 고잉홈 스터디 모집합니다.(강남)",
+		"d-day": "2022-06-25",
+		"link": "https://okky.kr/article/1257643"
+	},
+	{
+		"title": "[서울대입구역] Vue 모임",
+		"d-day": "2022-06-25",
+		"link": "https://okky.kr/article/1257618"
+	},
+	{
+		"title": "NextJS & TailwindCSS로 twitter 클론 스터디",
+		"d-day": "2022-06-25",
+		"link": "https://okky.kr/article/1257594"
 	},
 	{
 		"title": "☆새벽 공부 한달 챌린지 스터디원 모집☆ 시작날 기준 70%출석제,( 6/27~ 7/25)_도중 참여가능",
@@ -18,11 +38,6 @@
 		"title": "[서울] 머신러닝 AI 데이터 스터디 모집합니다",
 		"d-day": "2022-06-24",
 		"link": "https://okky.kr/article/1257040"
-	},
-	{
-		"title": "nextjs & tailwindcss 클론 스터디 모집",
-		"d-day": "2022-06-23",
-		"link": "https://okky.kr/article/1256688"
 	},
 	{
 		"title": "리액트 스터디 모집 합니다! ^^",
@@ -63,11 +78,6 @@
 		"title": "☆새벽 공부 한달 챌린지 스터디원 모집☆ 시작날 기준 70%출석제,( 6/27~ 7/25)_도중 참여가능",
 		"d-day": "2022-06-23",
 		"link": "https://okky.kr/article/1255809"
-	},
-	{
-		"title": "사이드프로젝트를 진행하실 프론트엔드 분을 구합니다",
-		"d-day": "2022-06-23",
-		"link": "https://okky.kr/article/1255803"
 	},
 	{
 		"title": "리팩터링2 스터디원 모집합니다. (추가 2명 모집, 현재 인원 4명)",
@@ -188,11 +198,6 @@
 		"title": "토비의 스프링(Vol. 1) 4장부터 공부할 스터디원 모집합니다.",
 		"d-day": "2022-06-19",
 		"link": "https://okky.kr/article/1253155"
-	},
-	{
-		"title": "불친절한 PL/SQL 프로그래밍 스터디",
-		"d-day": "2022-06-19",
-		"link": "https://okky.kr/article/1253046"
 	},
 	{
 		"title": "위치기반 서비스를 이용한 사이드프로젝트 모임 Application UI/UX 디자이너 모집합니다!!",
@@ -418,10 +423,5 @@
 		"title": "파이썬 코딩테스트 스터디 모집합니다.",
 		"d-day": "2022-06-07",
 		"link": "https://okky.kr/article/1243836"
-	},
-	{
-		"title": "사이드 프로젝트 팀원을 모집합니다",
-		"d-day": "2022-06-06",
-		"link": "https://okky.kr/article/1243311"
 	}
 ]
