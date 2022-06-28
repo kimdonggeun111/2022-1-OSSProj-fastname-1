@@ -1,5 +1,25 @@
 [
 	{
+		"title": "강남역 자바 알고리즘 스터디원 1명 추가 모집",
+		"d-day": "2022-06-28",
+		"link": "https://okky.kr/article/1258836"
+	},
+	{
+		"title": "JAVA,SPRING BOOT로 프로젝트 만드실분 모집합니다.(백엔드3,프론트1)",
+		"d-day": "2022-06-27",
+		"link": "https://okky.kr/article/1258612"
+	},
+	{
+		"title": "개발자 모임 수다 및 친목도모 & 고민 상담 하실 분 모집합니다~^^",
+		"d-day": "2022-06-27",
+		"link": "https://okky.kr/article/1258449"
+	},
+	{
+		"title": "[온라인, 화상]백엔드 기술면접 대비 cs 스터디",
+		"d-day": "2022-06-27",
+		"link": "https://okky.kr/article/1258219"
+	},
+	{
 		"title": "정기 오프 스터디 모임(신림) - 매주 토일 둘 다 오실 프론트엔드 공부하시는 한 분",
 		"d-day": "2022-06-27",
 		"link": "https://okky.kr/article/1257989"
@@ -10,24 +30,9 @@
 		"link": "https://okky.kr/article/1257956"
 	},
 	{
-		"title": "프로젝트 같이하실 웹퍼블리셔분 구합니다(포트폴리오용)",
-		"d-day": "2022-06-27",
-		"link": "https://okky.kr/article/1257950"
-	},
-	{
-		"title": "krx 금융 공모전 같이 하실분~~(현재 3명,1명 충원)",
-		"d-day": "2022-06-27",
-		"link": "https://okky.kr/article/1257900"
-	},
-	{
-		"title": "☆새벽 공부 한달 챌린지 스터디원 모집☆ 시작날 기준 70%출석제,( 6/27~ 7/25)_도중 참여가능",
+		"title": "☆새벽 공부 한달 챌린지 스터디원 모집☆ 시작날 기준 70%출석제,( 6/27~ 7/28)_도중 참여가능",
 		"d-day": "2022-06-27",
 		"link": "https://okky.kr/article/1257899"
-	},
-	{
-		"title": "프로젝트 함께하실 안드로이드 앱 개발자를 모십니다.",
-		"d-day": "2022-06-27",
-		"link": "https://okky.kr/article/1257892"
 	},
 	{
 		"title": "청주 스터디",
@@ -90,19 +95,9 @@
 		"link": "https://okky.kr/article/1256316"
 	},
 	{
-		"title": "운영체제 스터디 모집합니다.",
-		"d-day": "2022-06-23",
-		"link": "https://okky.kr/article/1256313"
-	},
-	{
 		"title": "대구 각코모, IT수다 오픈챗방입니다.",
 		"d-day": "2022-06-23",
 		"link": "https://okky.kr/article/1256201"
-	},
-	{
-		"title": "[알고리즘&자료구조] 코딩 테스트 공부 하실 분을 모집합니다.",
-		"d-day": "2022-06-23",
-		"link": "https://okky.kr/article/1256021"
 	},
 	{
 		"title": "프로젝트 함께하실 프론트엔드 한 분을 구합니다.",
@@ -128,11 +123,6 @@
 		"title": "[서울/강남] 안드로이드 SNS+ECommerce 앱 스터디세미나(현업19년차개발자가 제작시범, 매주 진행)",
 		"d-day": "2022-06-22",
 		"link": "https://okky.kr/article/1255502"
-	},
-	{
-		"title": "프론트엔드 면접 준비 인원 모집",
-		"d-day": "2022-06-22",
-		"link": "https://okky.kr/article/1255497"
 	},
 	{
 		"title": "서울대입구역 작심스터디카페 매일 모각코",
@@ -228,11 +218,6 @@
 		"title": "ADSP 자격증 스터디(당산, 2명 충원)",
 		"d-day": "2022-06-19",
 		"link": "https://okky.kr/article/1253162"
-	},
-	{
-		"title": "토비의 스프링(Vol. 1) 4장부터 공부할 스터디원 모집합니다.",
-		"d-day": "2022-06-19",
-		"link": "https://okky.kr/article/1253155"
 	},
 	{
 		"title": "위치기반 서비스를 이용한 사이드프로젝트 모임 Application UI/UX 디자이너 모집합니다!!",
@@ -418,10 +403,5 @@
 		"title": "리눅스 커널 스터디를 모집합니다!",
 		"d-day": "2022-06-09",
 		"link": "https://okky.kr/article/1245779"
-	},
-	{
-		"title": "을지로에서 스터디하실분 모집합니다 어서오세요!",
-		"d-day": "2022-06-08",
-		"link": "https://okky.kr/article/1245388"
 	}
 ]
