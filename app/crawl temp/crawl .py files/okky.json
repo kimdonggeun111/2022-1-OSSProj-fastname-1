@@ -1,8 +1,33 @@
 [
 	{
-		"title": "강남역 자바 알고리즘 스터디원 1명 추가 모집",
+		"title": "Kotlin IN ACTION, 이펙티브 코틀린 같이 스터디하실 분",
+		"d-day": "2022-06-29",
+		"link": "https://okky.kr/article/1259928"
+	},
+	{
+		"title": "도마뱀 좋아해요? - [사이드 프로젝트 디자이너 모집 공고] (~ 07 / 03)",
+		"d-day": "2022-06-29",
+		"link": "https://okky.kr/article/1259783"
+	},
+	{
+		"title": "[인천 청라] 자바스크립트 스터디 하실분 계실까요??",
+		"d-day": "2022-06-29",
+		"link": "https://okky.kr/article/1259737"
+	},
+	{
+		"title": "Native iOS 무료과외 (UIKit 기반)",
 		"d-day": "2022-06-28",
-		"link": "https://okky.kr/article/1258836"
+		"link": "https://okky.kr/article/1259722"
+	},
+	{
+		"title": "토이프로젝트 모집해봅니다.",
+		"d-day": "2022-06-28",
+		"link": "https://okky.kr/article/1259572"
+	},
+	{
+		"title": "☆토요일 오전 8시 zoom 비대면, 파이썬 데이터분석 스터디 모집합니다.",
+		"d-day": "2022-06-28",
+		"link": "https://okky.kr/article/1259247"
 	},
 	{
 		"title": "JAVA,SPRING BOOT로 프로젝트 만드실분 모집합니다.(백엔드3,프론트1)",
@@ -28,6 +53,11 @@
 		"title": "낙성대역-서울대입구역 각자 공부 모임 1명 모집 합니다.",
 		"d-day": "2022-06-27",
 		"link": "https://okky.kr/article/1257956"
+	},
+	{
+		"title": "[업무아님]프로젝트 같이하실 웹퍼블리셔분 구합니다(포트폴리오용)",
+		"d-day": "2022-06-27",
+		"link": "https://okky.kr/article/1257950"
 	},
 	{
 		"title": "☆새벽 공부 한달 챌린지 스터디원 모집☆ 시작날 기준 70%출석제,( 6/27~ 7/28)_도중 참여가능",
@@ -340,11 +370,6 @@
 		"link": "https://okky.kr/article/1247740"
 	},
 	{
-		"title": "프론트엔드 입문 기초 스터디",
-		"d-day": "2022-06-11",
-		"link": "https://okky.kr/article/1247723"
-	},
-	{
 		"title": "리팩터링 2판 스터디 멤버 모집합니다.",
 		"d-day": "2022-06-11",
 		"link": "https://okky.kr/article/1247585"
@@ -388,20 +413,5 @@
 		"title": "Keycloak 키클락 함께 공부하실분",
 		"d-day": "2022-06-09",
 		"link": "https://okky.kr/article/1246317"
-	},
-	{
-		"title": "부산에서 게임 클라이언트 프로그래머 또는 게임업계(비개발)로 취업준비 같이 하실 분 계신가요??",
-		"d-day": "2022-06-09",
-		"link": "https://okky.kr/article/1246090"
-	},
-	{
-		"title": "[열품타] 공부시간 인증 스터디 모집해요",
-		"d-day": "2022-06-09",
-		"link": "https://okky.kr/article/1245972"
-	},
-	{
-		"title": "리눅스 커널 스터디를 모집합니다!",
-		"d-day": "2022-06-09",
-		"link": "https://okky.kr/article/1245779"
 	}
 ]

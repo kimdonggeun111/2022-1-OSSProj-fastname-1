@@ -1,5 +1,23 @@
 [
 	{
+		"title": "NI기술지원 경력직원 모집",
+		"d-day": "2022.07.12(화)",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38875740?Oem_Code=C1&PageGbn=ST",
+		"기업": "현대HDS㈜"
+	},
+	{
+		"title": "솔루션 운영 경력직원 모집",
+		"d-day": "2022.07.12(화)",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38875694?Oem_Code=C1&PageGbn=ST",
+		"기업": "현대HDS㈜"
+	},
+	{
+		"title": "하반기 경력사원 공개채용",
+		"d-day": "2022.07.13(수)",
+		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38869651?Oem_Code=C1&PageGbn=ST",
+		"기업": "현대로보틱스"
+	},
+	{
 		"title": "삼아제약㈜ 부문별 경력 및 신입 사원 채용",
 		"d-day": "2022.07.03(일)",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38854513?Oem_Code=C1&PageGbn=ST",
@@ -79,7 +97,7 @@
 	},
 	{
 		"title": "2022년 위촉직 기술원 수시채용",
-		"d-day": "내일마감",
+		"d-day": "오늘마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38811301?Oem_Code=C1&PageGbn=ST",
 		"기업": "포항산업과학연구원"
 	},
@@ -103,13 +121,13 @@
 	},
 	{
 		"title": "[TmaxBI] PM본부 채용",
-		"d-day": "2022.06.30(목)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38802078?Oem_Code=C1&PageGbn=ST",
 		"기업": "티맥스그룹"
 	},
 	{
 		"title": "(주)현대바이오랜드 천안 공장 경력직 채용",
-		"d-day": "2022.06.30(목)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38800748?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜현대바이오랜드"
 	},
@@ -126,38 +144,26 @@
 		"기업": "이타스코리아㈜"
 	},
 	{
-		"title": "롯데정보통신 2022년 6월 경력 채용",
-		"d-day": "2022.06.30(목)",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38785618?Oem_Code=C1&PageGbn=ST",
-		"기업": "롯데정보통신㈜"
-	},
-	{
 		"title": "[LIG그룹 계열사] 큐셀네트웍스 시스템설계 경력 모집",
-		"d-day": "채용시",
+		"d-day": "내일 10시 마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38785295?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜이노와이어리스"
 	},
 	{
-		"title": "기술 직군 신입 채용 (Track 공채)",
-		"d-day": "2022.06.30(목)",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38783515?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜NAVER"
-	},
-	{
 		"title": "[야나두(야핏)] 서비스PM / 운영 기획 경력직 채용",
-		"d-day": "오늘 23시 마감",
+		"d-day": "채용시",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38780208?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜야나두"
 	},
 	{
 		"title": "[미래전략본부] 전략기획ㆍ서비스기획ㆍMD 신입 및 경력 채용",
-		"d-day": "2022.07.04(월)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38779866?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜더에스엠씨그룹"
 	},
 	{
 		"title": "(주) 한솔교육 프로그래머(연구개발직) 채용(정규직/경력)",
-		"d-day": "오늘 18시 마감",
+		"d-day": "2022.07.04(월)",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38765694?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜한솔교육"
 	},
@@ -168,7 +174,7 @@
 		"기업": "㈜아워홈"
 	},
 	{
-		"title": "㈜케이아이엔엑스 전직무 대규모 공개채용(신입/경력)",
+		"title": "(9시출근 5시퇴근) ㈜ KINX 신입/경력 공개채용",
 		"d-day": "2022.09.18(일)",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38762852?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜케이아이엔엑스"
@@ -235,7 +241,7 @@
 	},
 	{
 		"title": "[한진그룹] 한진정보통신 한진(택배/물류시스템) SM운영 인력 모집",
-		"d-day": "2022.07.04(월)",
+		"d-day": "2022.07.29(금)",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38747478?Oem_Code=C1&PageGbn=ST",
 		"기업": "한진정보통신㈜"
 	},
@@ -247,7 +253,7 @@
 	},
 	{
 		"title": "SI프로젝트 경력직원 모집",
-		"d-day": "2022.06.30(목)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38746091?Oem_Code=C1&PageGbn=ST",
 		"기업": "현대HDS㈜"
 	},
@@ -282,32 +288,20 @@
 		"기업": "㈜섹타나인"
 	},
 	{
-		"title": "어보브반도체 부문별 신입/경력직 채용",
-		"d-day": "2022.06.30(목)",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38721272?Oem_Code=C1&PageGbn=ST",
-		"기업": "어보브반도체㈜"
-	},
-	{
-		"title": "2022년 계열회사 각 부문 채용",
-		"d-day": "오늘마감",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38718387?Oem_Code=C1&PageGbn=ST",
-		"기업": "성창기업지주㈜"
-	},
-	{
 		"title": "[한화그룹계열]에스아이티 SW개발(Java, C#) 경력 모집공고",
-		"d-day": "오늘마감",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38679941?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜에스아이티"
 	},
 	{
 		"title": "2022년 IT 신입사원 채용",
-		"d-day": "2022.06.30(목)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38678097?Oem_Code=C1&PageGbn=ST",
 		"기업": "비아이매트릭스"
 	},
 	{
 		"title": "한국타이어앤테크놀로지 컨텐츠 디자인 신입/경력 채용",
-		"d-day": "2022.06.30(목)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38671681?Oem_Code=C1&PageGbn=ST",
 		"기업": "한국타이어앤테크놀로지(주)"
 	},
@@ -318,14 +312,8 @@
 		"기업": "이노뎁㈜"
 	},
 	{
-		"title": "[잡코리아] 데이터PO 및 데이터분석가 시니어급 인재 채용",
-		"d-day": "2022.07.12(화)",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38654038?Oem_Code=C1&PageGbn=ST",
-		"기업": "잡코리아(유)"
-	},
-	{
 		"title": "Service Engineer, Application Engineer 신입/경력 채용",
-		"d-day": "오늘마감",
+		"d-day": "2022.07.12(화)",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38647464?Oem_Code=C1&PageGbn=ST",
 		"기업": "인피콘㈜"
 	},
@@ -373,7 +361,7 @@
 	},
 	{
 		"title": "기획실 온라인 MD, VMD 신입 경력 채용",
-		"d-day": "2022.06.30(목)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38577062?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜이현어패럴"
 	},
@@ -397,7 +385,7 @@
 	},
 	{
 		"title": "[직방] 서비스 기획 분야별 채용 (경력)",
-		"d-day": "2022.06.30(목)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38278463?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜직방"
 	},
@@ -409,7 +397,7 @@
 	},
 	{
 		"title": "[현대자동차] 이노베이션담당 오픈이노베이션기술전략팀 경력 상시채용",
-		"d-day": "2022.06.30(목)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38056877?Oem_Code=C1&PageGbn=ST",
 		"기업": "현대자동차㈜"
 	},
@@ -436,11 +424,5 @@
 		"d-day": "2022.08.09(화)",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/37928639?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜머큐리"
-	},
-	{
-		"title": "[교육지대] 서비스기획/운영 담당 경력직 채용",
-		"d-day": "2022.08.01(월)",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/37904061?Oem_Code=C1&PageGbn=ST",
-		"기업": "교육지대㈜"
 	}
 ]
