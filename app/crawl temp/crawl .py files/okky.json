@@ -1,5 +1,45 @@
 [
 	{
+		"title": "Event driven programming - 코드 따라가면서 실습해보실분 있을까요? (파이썬)",
+		"d-day": "2022-07-01",
+		"link": "https://okky.kr/article/1261701"
+	},
+	{
+		"title": "광교중앙, 신분당 라인 오프라인 모각코, 코딩 스터디 모집합니다~",
+		"d-day": "2022-07-01",
+		"link": "https://okky.kr/article/1261667"
+	},
+	{
+		"title": "(강남) Springboot 스터디 모집합니다.",
+		"d-day": "2022-06-30",
+		"link": "https://okky.kr/article/1261561"
+	},
+	{
+		"title": "혼자 읽기 힘든 개발서적을 함께! - 북 스터디 챌린지 7월 모집",
+		"d-day": "2022-06-30",
+		"link": "https://okky.kr/article/1261510"
+	},
+	{
+		"title": "마이바티스 이용해서 간단한 프로젝트 만들어 보실분!",
+		"d-day": "2022-06-30",
+		"link": "https://okky.kr/article/1261464"
+	},
+	{
+		"title": "온라인 JS(TS) 모각코 인원 모집합니다~(평일 퇴근 후)",
+		"d-day": "2022-06-30",
+		"link": "https://okky.kr/article/1261454"
+	},
+	{
+		"title": "스터디, 취업, 지식공유, 이직 [프로가 됩시다]",
+		"d-day": "2022-06-30",
+		"link": "https://okky.kr/article/1261410"
+	},
+	{
+		"title": "같이 프로젝트 진행하실 분 구합니다~",
+		"d-day": "2022-06-30",
+		"link": "https://okky.kr/article/1261406"
+	},
+	{
 		"title": "[java,스프링,엘라스틱,blockchain]합정역 스터디 모집합니다.",
 		"d-day": "2022-06-30",
 		"link": "https://okky.kr/article/1260668"
@@ -20,11 +60,6 @@
 		"link": "https://okky.kr/article/1260604"
 	},
 	{
-		"title": "[서울] 자바 스터디 모집",
-		"d-day": "2022-06-29",
-		"link": "https://okky.kr/article/1260509"
-	},
-	{
 		"title": "[목동] 코딩테스트 멤버 모집합니다.",
 		"d-day": "2022-06-29",
 		"link": "https://okky.kr/article/1260335"
@@ -35,19 +70,9 @@
 		"link": "https://okky.kr/article/1260315"
 	},
 	{
-		"title": "백엔드 개발자 팀원 구합니다 !",
-		"d-day": "2022-06-29",
-		"link": "https://okky.kr/article/1260269"
-	},
-	{
 		"title": "파이썬,NodeJS,NextJS.. 사용하는 프로젝트하시는 분 있으면 저도 참여해도 될까요?",
 		"d-day": "2022-06-29",
 		"link": "https://okky.kr/article/1260083"
-	},
-	{
-		"title": "1년차 iOS 개발자가 토이프로젝트 구합니다.",
-		"d-day": "2022-06-29",
-		"link": "https://okky.kr/article/1259950"
 	},
 	{
 		"title": "Kotlin IN ACTION, 이펙티브 코틀린 같이 스터디하실 분",
@@ -113,11 +138,6 @@
 		"title": "청주 스터디",
 		"d-day": "2022-06-26",
 		"link": "https://okky.kr/article/1257865"
-	},
-	{
-		"title": "개인 포트폴리오 스터디 모임",
-		"d-day": "2022-06-26",
-		"link": "https://okky.kr/article/1257801"
 	},
 	{
 		"title": "위치기반 서비스를 이용한 사이드프로젝트 모임 BackEnd 엔지니어 분 구합니다!!",
@@ -248,11 +268,6 @@
 		"title": "“나는 코틀린 마스터” 스터디원을 모집합니다!",
 		"d-day": "2022-06-21",
 		"link": "https://okky.kr/article/1254797"
-	},
-	{
-		"title": "같이 프로젝트 진행할 프론트 개발자분 구합니다.",
-		"d-day": "2022-06-21",
-		"link": "https://okky.kr/article/1254725"
 	},
 	{
 		"title": "J2KB 코딩 스터디에서 Contents, Design, Operation 크루 멤버를 모집합니다!",
@@ -408,25 +423,5 @@
 		"title": "리팩터링 2판 스터디 멤버 모집합니다.",
 		"d-day": "2022-06-11",
 		"link": "https://okky.kr/article/1247585"
-	},
-	{
-		"title": "온라인] 게더타운 코딩 개발자 커뮤니티 인원 모집합니다",
-		"d-day": "2022-06-11",
-		"link": "https://okky.kr/article/1247513"
-	},
-	{
-		"title": "웹 취준(백엔드) 포폴만드는 스터디 참가 희망합니다",
-		"d-day": "2022-06-10",
-		"link": "https://okky.kr/article/1247386"
-	},
-	{
-		"title": "[수원 영통] 자바/스프링 기초부터 스터디 - 추가모집",
-		"d-day": "2022-06-10",
-		"link": "https://okky.kr/article/1247307"
-	},
-	{
-		"title": "노코드 버블 스터디원 모집합니다.",
-		"d-day": "2022-06-10",
-		"link": "https://okky.kr/article/1247128"
 	}
 ]
