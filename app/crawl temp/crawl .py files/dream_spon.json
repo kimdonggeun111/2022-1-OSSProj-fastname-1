@@ -1,97 +1,7 @@
 [
 	{
-		"title": "경기도 청년기본소득 (2022년 2분기)",
-		"d-day": "D-0",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5356",
-		"tag": [
-			"기타지원",
-			"일반인",
-			"청년"
-		]
-	},
-	{
-		"title": "부마민주항쟁기념재단 장학 (2022년)",
-		"d-day": "D-0",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5357",
-		"tag": [
-			"장학금",
-			"고등학생",
-			"대학생"
-		]
-	},
-	{
-		"title": "LH 대학생 주택건축대전",
-		"d-day": "D-0",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5358",
-		"tag": [
-			"장학프로그램",
-			"대학생",
-			"대학원생"
-		]
-	},
-	{
-		"title": "청년예술가 네트워크 활성화 지원사업 (2022년)",
-		"d-day": "D-0",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5359",
-		"tag": [
-			"기타지원",
-			"청년",
-			"일반인"
-		]
-	},
-	{
-		"title": "아이디어 창업화 예비창업가 모집",
-		"d-day": "D-0",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5360",
-		"tag": [
-			"기타지원",
-			"청년",
-			"일반인"
-		]
-	},
-	{
-		"title": "남양주시 청년취업성공 프로젝트 3기",
-		"d-day": "D-0",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5397",
-		"tag": [
-			"기타지원",
-			"청년",
-			"구직자"
-		]
-	},
-	{
-		"title": "의왕시 경기도 예술인 창작지원금",
-		"d-day": "D-0",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5398",
-		"tag": [
-			"기타지원",
-			"일반인",
-			"예술인"
-		]
-	},
-	{
-		"title": "코로나19 특고∙프리랜서 고용안정지원금",
-		"d-day": "D-0",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5399",
-		"tag": [
-			"기타지원",
-			"일반인",
-			"특고"
-		]
-	},
-	{
-		"title": "연천군 지역주도형 청년일자리 사업 참여자 모집",
-		"d-day": "D-0",
-		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5402",
-		"tag": [
-			"기타지원",
-			"청년",
-			"일반인"
-		]
-	},
-	{
 		"title": "2022년 우정사회봉사단 : POCU´S 溫 (포커스온) 3기 모집",
-		"d-day": "D-2",
+		"d-day": "D-1",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5310",
 		"tag": [
 			"한국우편사업진흥원",
@@ -101,7 +11,7 @@
 	},
 	{
 		"title": "한국산업인력공단 월드잡플러스 서포터즈 9기 모집",
-		"d-day": "D-2",
+		"d-day": "D-1",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5385",
 		"tag": [
 			"기타장학",
@@ -111,7 +21,7 @@
 	},
 	{
 		"title": "아모레퍼시픽 박사학위 연구지원",
-		"d-day": "D-2",
+		"d-day": "D-1",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5400",
 		"tag": [
 			"장학프로그램",
@@ -121,7 +31,7 @@
 	},
 	{
 		"title": "6월 4주차 212억",
-		"d-day": "D-3",
+		"d-day": "D-2",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5101",
 		"tag": [
 			""
@@ -129,7 +39,7 @@
 	},
 	{
 		"title": "동두천시 교육분야 재난지원금",
-		"d-day": "D-5",
+		"d-day": "D-4",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5361",
 		"tag": [
 			"기타지원",
@@ -139,7 +49,7 @@
 	},
 	{
 		"title": "동두천시 문화체육분야 재난지원금",
-		"d-day": "D-5",
+		"d-day": "D-4",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5362",
 		"tag": [
 			"기타지원",
@@ -149,7 +59,7 @@
 	},
 	{
 		"title": "유재하 음악경연대회 (33회)",
-		"d-day": "D-6",
+		"d-day": "D-5",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5363",
 		"tag": [
 			"장학프로그램",
@@ -159,7 +69,7 @@
 	},
 	{
 		"title": "서울시 청년월세지원 (2022년)",
-		"d-day": "D-6",
+		"d-day": "D-5",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5386",
 		"tag": [
 			"주거지원",
@@ -169,7 +79,7 @@
 	},
 	{
 		"title": "해양수산부장학(수산후계 장학) (2022년 2학기)",
-		"d-day": "D-6",
+		"d-day": "D-5",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5403",
 		"tag": [
 			"장학금",
@@ -179,7 +89,7 @@
 	},
 	{
 		"title": "농림축산식품부 대학 장학금 (2022년 2학기)",
-		"d-day": "D-6",
+		"d-day": "D-5",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5411",
 		"tag": [
 			"장학금",
@@ -189,7 +99,7 @@
 	},
 	{
 		"title": "수원시 청년 해외취업 아카데미 모집",
-		"d-day": "D-7",
+		"d-day": "D-6",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5364",
 		"tag": [
 			"기타지원",
@@ -199,7 +109,7 @@
 	},
 	{
 		"title": "동두천시 귀농 농업창업 및 주택구입 지원",
-		"d-day": "D-7",
+		"d-day": "D-6",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5404",
 		"tag": [
 			"기타지원",
@@ -209,7 +119,7 @@
 	},
 	{
 		"title": "여름방학 다품멘토링",
-		"d-day": "D-7",
+		"d-day": "D-6",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5405",
 		"tag": [
 			"기타지원",
@@ -219,7 +129,7 @@
 	},
 	{
 		"title": "2022 다맞춤 멘토링 멘토 모집",
-		"d-day": "D-7",
+		"d-day": "D-6",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5407",
 		"tag": [
 			"기타지원",
@@ -229,7 +139,7 @@
 	},
 	{
 		"title": "법무법인 세움 이룸 장학 (2022년)",
-		"d-day": "D-7",
+		"d-day": "D-6",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5408",
 		"tag": [
 			"장학금",
@@ -239,7 +149,7 @@
 	},
 	{
 		"title": "한화토탈에너지스 산학 장학",
-		"d-day": "D-7",
+		"d-day": "D-6",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5409",
 		"tag": [
 			"산학장학",
@@ -249,7 +159,7 @@
 	},
 	{
 		"title": "경기도 광주시 예술인 재난지원금 (2차)",
-		"d-day": "D-7",
+		"d-day": "D-6",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5414",
 		"tag": [
 			"기타지원",
@@ -259,7 +169,7 @@
 	},
 	{
 		"title": "시흥시인재양성재단 장학 (2022년 하반기)",
-		"d-day": "D-7",
+		"d-day": "D-6",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5428",
 		"tag": [
 			"장학금",
@@ -269,7 +179,7 @@
 	},
 	{
 		"title": "세르비아 정부초청 장학",
-		"d-day": "D-9",
+		"d-day": "D-8",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5375",
 		"tag": [
 			"장학금",
@@ -279,7 +189,7 @@
 	},
 	{
 		"title": "HACCP 전문인력 양성과정 교육생 모집 (2022년 3기)",
-		"d-day": "D-9",
+		"d-day": "D-8",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5376",
 		"tag": [
 			"기타지원",
@@ -289,7 +199,7 @@
 	},
 	{
 		"title": "강원도 청년 구직활동 지원",
-		"d-day": "D-9",
+		"d-day": "D-8",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5377",
 		"tag": [
 			"기타지원",
@@ -299,7 +209,7 @@
 	},
 	{
 		"title": "MG 희망나눔 소셜 성장 지원사업",
-		"d-day": "D-9",
+		"d-day": "D-8",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5410",
 		"tag": [
 			"장학프로그램",
@@ -309,7 +219,7 @@
 	},
 	{
 		"title": "고등교육재단 해외유학장학 (2022년)",
-		"d-day": "D-10",
+		"d-day": "D-9",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5412",
 		"tag": [
 			"장학금",
@@ -319,7 +229,7 @@
 	},
 	{
 		"title": "부산 미래 정책∙창업 아이디어 경진대회",
-		"d-day": "D-10",
+		"d-day": "D-9",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5417",
 		"tag": [
 			"장학프로그램",
@@ -329,7 +239,7 @@
 	},
 	{
 		"title": "음성군 소셜미디어 기자단 모집",
-		"d-day": "D-11",
+		"d-day": "D-10",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5378",
 		"tag": [
 			"장학프로그램",
@@ -339,7 +249,7 @@
 	},
 	{
 		"title": "외국인 글로벌희망장학 (2022년 2학기)",
-		"d-day": "D-13",
+		"d-day": "D-12",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5379",
 		"tag": [
 			"장학금",
@@ -349,7 +259,7 @@
 	},
 	{
 		"title": "기보벤처캠프 참여모집",
-		"d-day": "D-13",
+		"d-day": "D-12",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5413",
 		"tag": [
 			"장학프로그램",
@@ -359,7 +269,7 @@
 	},
 	{
 		"title": "파주시 청년취업자 월세 지원 (22년 하반기)",
-		"d-day": "D-14",
+		"d-day": "D-13",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5380",
 		"tag": [
 			"기타지원",
@@ -369,7 +279,7 @@
 	},
 	{
 		"title": "새희망힐링펀드 장학 (2022년)",
-		"d-day": "D-14",
+		"d-day": "D-13",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5381",
 		"tag": [
 			"장학금",
@@ -379,7 +289,7 @@
 	},
 	{
 		"title": "포스코 비전장학 (2022년)",
-		"d-day": "D-14",
+		"d-day": "D-13",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5382",
 		"tag": [
 			"장학금",
@@ -389,7 +299,7 @@
 	},
 	{
 		"title": "본엔젤스 초심캠프 4기 모집",
-		"d-day": "D-14",
+		"d-day": "D-13",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5416",
 		"tag": [
 			"장학프로그램",
@@ -399,7 +309,7 @@
 	},
 	{
 		"title": "서울 장애인 씨알장학 (2022년)",
-		"d-day": "D-16",
+		"d-day": "D-15",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5418",
 		"tag": [
 			"장학금",
@@ -409,7 +319,7 @@
 	},
 	{
 		"title": "2022 소셜벤처 경연대회",
-		"d-day": "D-17",
+		"d-day": "D-16",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5420",
 		"tag": [
 			"장학프로그램",
@@ -419,7 +329,7 @@
 	},
 	{
 		"title": "경기도 청년 취업지원프로그램",
-		"d-day": "D-18",
+		"d-day": "D-17",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5421",
 		"tag": [
 			"기타지원",
@@ -429,7 +339,7 @@
 	},
 	{
 		"title": "울산광역시 학자금대출 이자지원 (2022년 1학기)",
-		"d-day": "D-19",
+		"d-day": "D-18",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5422",
 		"tag": [
 			"대출지원",
@@ -439,7 +349,7 @@
 	},
 	{
 		"title": "보은군민장학회 중∙고등학생 복지 장학 (2022년 상반기)",
-		"d-day": "D-19",
+		"d-day": "D-18",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5425",
 		"tag": [
 			"장학금",
@@ -449,7 +359,7 @@
 	},
 	{
 		"title": "종근당고촌학사 입사생 모집 (2022년 하반기)",
-		"d-day": "D-20",
+		"d-day": "D-19",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5424",
 		"tag": [
 			"주거지원",
@@ -459,7 +369,7 @@
 	},
 	{
 		"title": "김희경유럽정신문화장학재단 장학 (2022년 2학기)",
-		"d-day": "D-21",
+		"d-day": "D-20",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5355",
 		"tag": [
 			"장학금",
@@ -469,7 +379,7 @@
 	},
 	{
 		"title": "밝은성모안과 눈 밝은 장학 (7월반)",
-		"d-day": "D-21",
+		"d-day": "D-20",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5367",
 		"tag": [
 			"밝은성모안과",
@@ -480,7 +390,7 @@
 	},
 	{
 		"title": "영동군 교육특별장학금 (2022년)",
-		"d-day": "D-28",
+		"d-day": "D-27",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5077",
 		"tag": [
 			"장학금",
@@ -490,7 +400,7 @@
 	},
 	{
 		"title": "첫번째 장학금 받는 꿀팁 1",
-		"d-day": "D-30",
+		"d-day": "D-29",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5134",
 		"tag": [
 			""
@@ -498,7 +408,7 @@
 	},
 	{
 		"title": "세번째 장학금 받는 꿀팁 3",
-		"d-day": "D-30",
+		"d-day": "D-29",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5205",
 		"tag": [
 			"꿀팁3",
@@ -508,7 +418,7 @@
 	},
 	{
 		"title": "희망/동행 삼일장학 (2022년 2학기)",
-		"d-day": "D-32",
+		"d-day": "D-31",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5383",
 		"tag": [
 			"장학금",
@@ -518,7 +428,7 @@
 	},
 	{
 		"title": "석성장학회 선행장학 (2022년)",
-		"d-day": "D-122",
+		"d-day": "D-121",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5080",
 		"tag": [
 			"장학금",
@@ -528,7 +438,7 @@
 	},
 	{
 		"title": "남양주 북한이탈주민 수급자 지원사업",
-		"d-day": "D-133",
+		"d-day": "D-132",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=4709",
 		"tag": [
 			"남양주시",
@@ -538,7 +448,7 @@
 	},
 	{
 		"title": "문화누리카드 신청",
-		"d-day": "D-152",
+		"d-day": "D-151",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=4710",
 		"tag": [
 			"일반인",
@@ -548,7 +458,7 @@
 	},
 	{
 		"title": "남해 청년 도서구입비 지원",
-		"d-day": "D-152",
+		"d-day": "D-151",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5303",
 		"tag": [
 			"기타지원",
@@ -558,7 +468,7 @@
 	},
 	{
 		"title": "남양주시 온라인 취업지원 컨설팅",
-		"d-day": "D-152",
+		"d-day": "D-151",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5304",
 		"tag": [
 			"기타지원",
@@ -568,7 +478,7 @@
 	},
 	{
 		"title": "군포시 학자금대출 신용회복지원 (2022년도)",
-		"d-day": "D-152",
+		"d-day": "D-151",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5305",
 		"tag": [
 			"대출지원",
@@ -578,7 +488,7 @@
 	},
 	{
 		"title": "인제군 인재육성기금 장학 (2022년 변경)",
-		"d-day": "D-161",
+		"d-day": "D-160",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5248",
 		"tag": [
 			"장학금",
@@ -588,7 +498,7 @@
 	},
 	{
 		"title": "과천시 청년구직자 자격증 응시료 지원",
-		"d-day": "D-162",
+		"d-day": "D-161",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5302",
 		"tag": [
 			"기타지원",
@@ -598,7 +508,7 @@
 	},
 	{
 		"title": "부산 남구 대학생 전입장려금 (2022년)",
-		"d-day": "D-168",
+		"d-day": "D-167",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5197",
 		"tag": [
 			"장학금",
@@ -608,7 +518,7 @@
 	},
 	{
 		"title": "코로나19 가족돌봄비용 지원",
-		"d-day": "D-168",
+		"d-day": "D-167",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5262",
 		"tag": [
 			"기타지원",
@@ -618,7 +528,7 @@
 	},
 	{
 		"title": "재난장학금",
-		"d-day": "D-182",
+		"d-day": "D-181",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5263",
 		"tag": [
 			"장학금",
@@ -628,7 +538,7 @@
 	},
 	{
 		"title": "세종시 긴급복지지원 장학",
-		"d-day": "D-183",
+		"d-day": "D-182",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=4711",
 		"tag": [
 			"장학금",
@@ -638,7 +548,7 @@
 	},
 	{
 		"title": "천안 위기가정 주거안정 긴급 지원 사업",
-		"d-day": "D-183",
+		"d-day": "D-182",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=4712",
 		"tag": [
 			"일반인",
@@ -648,7 +558,7 @@
 	},
 	{
 		"title": "청년 마음건강 바우처 지원",
-		"d-day": "D-183",
+		"d-day": "D-182",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=4763",
 		"tag": [
 			"청년",
@@ -658,7 +568,7 @@
 	},
 	{
 		"title": "고흥군 귀향인 자녀 어울림 장학",
-		"d-day": "D-183",
+		"d-day": "D-182",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=4898",
 		"tag": [
 			"중학생",
@@ -668,7 +578,7 @@
 	},
 	{
 		"title": "청년도전 지원사업",
-		"d-day": "D-183",
+		"d-day": "D-182",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5081",
 		"tag": [
 			"기타지원",
@@ -678,7 +588,7 @@
 	},
 	{
 		"title": "경기도 청소년 종합심리검사 지원사업",
-		"d-day": "D-183",
+		"d-day": "D-182",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5082",
 		"tag": [
 			"기타지원",
@@ -688,7 +598,7 @@
 	},
 	{
 		"title": "성남시 입영지원금",
-		"d-day": "D-101",
+		"d-day": "D-100",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5108",
 		"tag": [
 			"기타지원",
@@ -698,7 +608,7 @@
 	},
 	{
 		"title": "안산청년 자격증 응시료 지원",
-		"d-day": "D-183",
+		"d-day": "D-182",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5240",
 		"tag": [
 			"기타지원",
@@ -708,7 +618,7 @@
 	},
 	{
 		"title": "경기도 예술인 심리상담지원",
-		"d-day": "D-183",
+		"d-day": "D-182",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5245",
 		"tag": [
 			"기타지원",
@@ -718,7 +628,7 @@
 	},
 	{
 		"title": "성남시 청년 일자리 사업 참여 청년 모집",
-		"d-day": "D-183",
+		"d-day": "D-182",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5286",
 		"tag": [
 			"청년",
@@ -728,7 +638,7 @@
 	},
 	{
 		"title": "화성시 청년고용 지원",
-		"d-day": "D-183",
+		"d-day": "D-182",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5289",
 		"tag": [
 			"화성시",
@@ -738,12 +648,42 @@
 	},
 	{
 		"title": "파주시 AI・VR 면접체험",
-		"d-day": "D-183",
+		"d-day": "D-182",
 		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5295",
 		"tag": [
 			"파주시",
 			"구직가",
 			"면접체험"
+		]
+	},
+	{
+		"title": "2022 전북 예술인 민생안정지원금",
+		"d-day": "D-182",
+		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5296",
+		"tag": [
+			"전라북도",
+			"예술인",
+			"민생안정지원금"
+		]
+	},
+	{
+		"title": "청년 중소기업 취업자 소득세 감면",
+		"d-day": "D-182",
+		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5299",
+		"tag": [
+			"기타지원",
+			"청년",
+			"근로기준"
+		]
+	},
+	{
+		"title": "취약계층 아동가정 캠페인 사례 모집",
+		"d-day": "D-182",
+		"link": "https://www.dreamspon.com/scholarship/view.html?idx=5301",
+		"tag": [
+			"기타지원",
+			"일반인",
+			"취약계층"
 		]
 	}
 ]
