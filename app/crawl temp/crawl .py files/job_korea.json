@@ -127,7 +127,7 @@
 	},
 	{
 		"title": "2022년 수성엔지니어링 신입/경력직 공개 채용",
-		"d-day": "내일마감",
+		"d-day": "오늘마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38852769?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜수성엔지니어링"
 	},
@@ -139,7 +139,7 @@
 	},
 	{
 		"title": "[NICE평가정보] 하반기 신입/경력 직원 수시채용",
-		"d-day": "내일마감",
+		"d-day": "오늘마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38837530?Oem_Code=C1&PageGbn=ST",
 		"기업": "나이스평가정보㈜"
 	},
@@ -151,7 +151,7 @@
 	},
 	{
 		"title": "(주)오상헬스케어 신입 및 경력직 모집",
-		"d-day": "내일마감",
+		"d-day": "오늘마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38835021?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜오상헬스케어"
 	},
@@ -174,20 +174,14 @@
 		"기업": "유화증권㈜"
 	},
 	{
-		"title": "각 부문별 경력 사원 채용",
-		"d-day": "내일마감",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38822035?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜모나미"
-	},
-	{
 		"title": "해태제과식품㈜ 채용연계형 인턴 모집",
-		"d-day": "2022.07.06(수)",
+		"d-day": "오늘마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38819658?Oem_Code=C1&PageGbn=ST",
 		"기업": "해태제과식품(주)"
 	},
 	{
 		"title": "신입/경력사원 수시채용",
-		"d-day": "내일마감",
+		"d-day": "2022.07.06(수)",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38819140?Oem_Code=C1&PageGbn=ST",
 		"기업": "엘아이지넥스원㈜"
 	},
@@ -211,13 +205,13 @@
 	},
 	{
 		"title": "[LIG그룹 계열사] 큐셀네트웍스 시스템설계 경력 모집",
-		"d-day": "2022.07.04(월)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38785295?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜이노와이어리스"
 	},
 	{
 		"title": "[야나두(야핏)] 서비스PM / 운영 기획 경력직 채용",
-		"d-day": "2022.07.04(월)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38780208?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜야나두"
 	},
@@ -235,55 +229,49 @@
 	},
 	{
 		"title": "(주)아워홈 IT부문 시스템 운영인력(신입/경력직)채용",
-		"d-day": "2022.07.04(월)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38765085?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜아워홈"
 	},
 	{
 		"title": "(9시출근 5시퇴근) ㈜ KINX 신입/경력 공개채용",
-		"d-day": "2022.07.10(일)",
+		"d-day": "채용시",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38762852?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜케이아이엔엑스"
 	},
 	{
-		"title": "[LIG그룹 계열사] 이노와이어리스 임베디드펌웨어 계측시스템 개발 신입경력 모집",
-		"d-day": "오늘마감",
-		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38759373?Oem_Code=C1&PageGbn=ST",
-		"기업": "㈜이노와이어리스"
-	},
-	{
 		"title": "[다우키움그룹] 한국정보인증 웹서비스 개발 채용전제형 인턴 채용",
-		"d-day": "2022.07.04(월)",
+		"d-day": "내일 9시 마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38758739?Oem_Code=C1&PageGbn=ST",
 		"기업": "한국정보인증"
 	},
 	{
 		"title": "[다우키움그룹] 한국정보인증 App 개발 채용전제형 인턴 채용",
-		"d-day": "2022.07.04(월)",
+		"d-day": "내일 9시 마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38758694?Oem_Code=C1&PageGbn=ST",
 		"기업": "한국정보인증"
 	},
 	{
 		"title": "[다우키움그룹] 한국정보인증 웹서비스 개발 경력직 채용",
-		"d-day": "2022.07.04(월)",
+		"d-day": "내일 9시 마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38758610?Oem_Code=C1&PageGbn=ST",
 		"기업": "한국정보인증"
 	},
 	{
 		"title": "[다우키움그룹] 한국정보인증 솔루션 개발 경력직 채용",
-		"d-day": "2022.07.04(월)",
+		"d-day": "내일 9시 마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38758602?Oem_Code=C1&PageGbn=ST",
 		"기업": "한국정보인증"
 	},
 	{
 		"title": "[다우키움그룹] 한국정보인증 App 개발 경력직 채용",
-		"d-day": "2022.07.04(월)",
+		"d-day": "내일 9시 마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38758589?Oem_Code=C1&PageGbn=ST",
 		"기업": "한국정보인증"
 	},
 	{
 		"title": "[다우키움그룹] 한국정보인증 서버 개발 경력직 채용",
-		"d-day": "2022.07.04(월)",
+		"d-day": "내일 9시 마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38758511?Oem_Code=C1&PageGbn=ST",
 		"기업": "한국정보인증"
 	},
@@ -301,7 +289,7 @@
 	},
 	{
 		"title": "블루포인트ㅣMarketer(Growth hacker), Community Manager",
-		"d-day": "2022.07.04(월)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38747204?Oem_Code=C1&PageGbn=ST",
 		"기업": "㈜블루포인트파트너스"
 	},
@@ -313,7 +301,7 @@
 	},
 	{
 		"title": "ASML 2022년 6월 경력사원 채용",
-		"d-day": "2022.07.04(월)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38738996?Oem_Code=C1&PageGbn=ST",
 		"기업": "에이에스엠엘코리아㈜"
 	},
@@ -331,7 +319,7 @@
 	},
 	{
 		"title": "2022년 IT 신입사원 채용",
-		"d-day": "2022.07.04(월)",
+		"d-day": "내일마감",
 		"link": "http://www.jobkorea.co.kr/Recruit/GI_Read/38678097?Oem_Code=C1&PageGbn=ST",
 		"기업": "비아이매트릭스"
 	},
