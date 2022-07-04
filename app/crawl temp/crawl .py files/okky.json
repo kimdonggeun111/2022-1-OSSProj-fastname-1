@@ -1,5 +1,35 @@
 [
 	{
+		"title": "천호동 모각코 스터디 모집합니다.",
+		"d-day": "2022-07-04",
+		"link": "https://okky.kr/article/1263267"
+	},
+	{
+		"title": "☆새벽 공부 한달 챌린지 스터디원 모집☆ 시작날 기준 70%출석제,( 6/27~ 7/28)_도중 참여가능",
+		"d-day": "2022-07-04",
+		"link": "https://okky.kr/article/1262994"
+	},
+	{
+		"title": "[온라인] 개발 도서 스터디 모집합니다.",
+		"d-day": "2022-07-04",
+		"link": "https://okky.kr/article/1262971"
+	},
+	{
+		"title": "토이 프로젝트(유명앱구현) 같이 하실 프론트개발자님 모십니다.",
+		"d-day": "2022-07-03",
+		"link": "https://okky.kr/article/1262967"
+	},
+	{
+		"title": "제 10회 전국 대학생 앱 개발 챌린지 K-해커톤 '개발자' 팀원을 모집합니다.",
+		"d-day": "2022-07-03",
+		"link": "https://okky.kr/article/1262850"
+	},
+	{
+		"title": "[대학생/공모전/안드_네이티브_FE/1인] 전국 대학생 앱개발 챌린지 예선참가팀에 정식으로 조인하실 앱FE개발자를 구합니다.",
+		"d-day": "2022-07-03",
+		"link": "https://okky.kr/article/1262846"
+	},
+	{
 		"title": "같이 공부하면서 프로젝트 진행할 팀원구합니다.",
 		"d-day": "2022-07-02",
 		"link": "https://okky.kr/article/1262677"
@@ -85,7 +115,7 @@
 		"link": "https://okky.kr/article/1261667"
 	},
 	{
-		"title": "혼자 읽기 힘든 개발서적을 함께! - 북 스터디 챌린지 7월 모집",
+		"title": "미뤄뒀던 개발서적,, 함께 읽고 싶다면?! - 디벨럽 북클럽 7월 모집 중",
 		"d-day": "2022-06-30",
 		"link": "https://okky.kr/article/1261510"
 	},
@@ -93,11 +123,6 @@
 		"title": "마이바티스 이용해서 간단한 프로젝트 만들어 보실분!",
 		"d-day": "2022-06-30",
 		"link": "https://okky.kr/article/1261464"
-	},
-	{
-		"title": "온라인 JS(TS) 모각코 인원 모집합니다~(평일 퇴근 후)",
-		"d-day": "2022-06-30",
-		"link": "https://okky.kr/article/1261454"
 	},
 	{
 		"title": "스터디, 취업, 지식공유, 이직 [프로가 됩시다]",
@@ -138,11 +163,6 @@
 		"title": "도마뱀 좋아해요? - [사이드 프로젝트 디자이너 모집 공고] (~ 07 / 03)",
 		"d-day": "2022-06-29",
 		"link": "https://okky.kr/article/1259783"
-	},
-	{
-		"title": "Native iOS 무료과외 (UIKit 기반)",
-		"d-day": "2022-06-28",
-		"link": "https://okky.kr/article/1259722"
 	},
 	{
 		"title": "토이프로젝트 모집해봅니다.",
@@ -370,11 +390,6 @@
 		"link": "https://okky.kr/article/1252970"
 	},
 	{
-		"title": "Blazor 스터디",
-		"d-day": "2022-06-19",
-		"link": "https://okky.kr/article/1252948"
-	},
-	{
 		"title": "nextjs & tailwindcss 클론코딩 스터디 모집",
 		"d-day": "2022-06-18",
 		"link": "https://okky.kr/article/1252831"
@@ -418,25 +433,5 @@
 		"title": "golang 스터디원 구합니다",
 		"d-day": "2022-06-15",
 		"link": "https://okky.kr/article/1250660"
-	},
-	{
-		"title": "사이드 프로젝트 기획자님을 모집합니다",
-		"d-day": "2022-06-15",
-		"link": "https://okky.kr/article/1250354"
-	},
-	{
-		"title": "'지속가능한 커뮤니티' 사이드 프로젝트 팀원 모집",
-		"d-day": "2022-06-14",
-		"link": "https://okky.kr/article/1249418"
-	},
-	{
-		"title": "백엔드 프로젝트 팀원 구합니다.",
-		"d-day": "2022-06-14",
-		"link": "https://okky.kr/article/1249371"
-	},
-	{
-		"title": "서울대입구역 매일 아침 / 저녁 모각코",
-		"d-day": "2022-06-14",
-		"link": "https://okky.kr/article/1249033"
 	}
 ]
