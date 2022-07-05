@@ -1,5 +1,50 @@
 [
 	{
+		"title": "리펙터링 주말스터디 모집합니다!! (강남역 오프라인 스터디)",
+		"d-day": "2022-07-05",
+		"link": "https://okky.kr/article/1264222"
+	},
+	{
+		"title": "spring msa로 프로젝트 하실분!",
+		"d-day": "2022-07-05",
+		"link": "https://okky.kr/article/1264154"
+	},
+	{
+		"title": "클론코딩 백엔드 개발자 구함",
+		"d-day": "2022-07-04",
+		"link": "https://okky.kr/article/1264050"
+	},
+	{
+		"title": "강남역 자바 알고리즘 스터디 추가 모집",
+		"d-day": "2022-07-04",
+		"link": "https://okky.kr/article/1263866"
+	},
+	{
+		"title": "개발자 전문 스터디그룹원 모집합니다.",
+		"d-day": "2022-07-04",
+		"link": "https://okky.kr/article/1263822"
+	},
+	{
+		"title": "tls구현으로 배우는 암호학 스터디 모집",
+		"d-day": "2022-07-04",
+		"link": "https://okky.kr/article/1263648"
+	},
+	{
+		"title": "자바 병렬 프로그래밍 책 스터디 모집합니다",
+		"d-day": "2022-07-04",
+		"link": "https://okky.kr/article/1263477"
+	},
+	{
+		"title": "디자인 패턴에 대해 같이 공부하고 피드백 하실분들 구해요!",
+		"d-day": "2022-07-04",
+		"link": "https://okky.kr/article/1263406"
+	},
+	{
+		"title": "혼자 읽기 힘들었던 개발 도서를 모여서 같이 읽어요!!",
+		"d-day": "2022-07-04",
+		"link": "https://okky.kr/article/1263402"
+	},
+	{
 		"title": "천호동 모각코 스터디 모집합니다.",
 		"d-day": "2022-07-04",
 		"link": "https://okky.kr/article/1263267"
@@ -115,11 +160,6 @@
 		"link": "https://okky.kr/article/1261667"
 	},
 	{
-		"title": "미뤄뒀던 개발서적,, 함께 읽고 싶다면?! - 디벨럽 북클럽 7월 모집 중",
-		"d-day": "2022-06-30",
-		"link": "https://okky.kr/article/1261510"
-	},
-	{
 		"title": "마이바티스 이용해서 간단한 프로젝트 만들어 보실분!",
 		"d-day": "2022-06-30",
 		"link": "https://okky.kr/article/1261464"
@@ -178,11 +218,6 @@
 		"title": "JAVA,SPRING BOOT로 프로젝트 만드실분 모집합니다.(백엔드3,프론트1)",
 		"d-day": "2022-06-27",
 		"link": "https://okky.kr/article/1258612"
-	},
-	{
-		"title": "개발자 모임 수다 및 친목도모 & 고민 상담 하실 분 모집합니다~^^",
-		"d-day": "2022-06-27",
-		"link": "https://okky.kr/article/1258449"
 	},
 	{
 		"title": "[온라인, 화상]백엔드 기술면접 대비 cs 스터디",
@@ -418,20 +453,5 @@
 		"title": "[모각코/모각작] 토요일 11:00-13:00 스터디원 충원합니다. (신림역)",
 		"d-day": "2022-06-16",
 		"link": "https://okky.kr/article/1251906"
-	},
-	{
-		"title": "[모각코] 여성만 2~4인, 규칙적인 시간(코딩, 식사)",
-		"d-day": "2022-06-16",
-		"link": "https://okky.kr/article/1251790"
-	},
-	{
-		"title": "초보 백엔드 스터디원 모집합니다.",
-		"d-day": "2022-06-16",
-		"link": "https://okky.kr/article/1251680"
-	},
-	{
-		"title": "golang 스터디원 구합니다",
-		"d-day": "2022-06-15",
-		"link": "https://okky.kr/article/1250660"
 	}
 ]
